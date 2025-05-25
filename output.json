@@ -1,0 +1,1823 @@
+[
+  {
+    "savol": "“INVESTITSIYA” FANIDAN TESTLAR",
+    "variantlar": {
+      "a": "Xorijiy investitsiyani qabul qiluvchi davlat qanday nomlanadi?",
+      "b": "Retsipient",
+      "c": "Eksporter",
+      "d": "Donor",
+      "e": "Importer"
+    },
+    "togri_javob": "b"
+  },
+  {
+    "savol": "“Fors-major” holatining vujudga kelish sabablari qaysi?",
+    "variantlar": {
+      "a": "tabiiy ofatlar, yong’inlar, zilzila, suv toshqinlari",
+      "b": "menejmentning yomonlashuvi",
+      "c": "mol etkazib beruvchilarning xom ashyolarni o’z vaqtida yetkazib bera olmasligi",
+      "d": "qarz oluvchining ishlab chiqargan mahsuloti narxining pasayishiga sabab bo’luvchi omillar"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "“Investitsiya” va “jamg’armalar” tushunchalari o’rtasidagi o’zaro bog’liqlik nimada?",
+    "variantlar": {
+      "a": "jamg’armalar - bu investitsiya manbasi",
+      "b": "investitsiyalar – bu iste’mol va jamg’arma yig’indisi",
+      "c": "bu ikki tushunchalar o’zaro bog’liq emas",
+      "d": "jamg’armalar investitsiyalarning bir shakli"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "“Investitsiyalar” va “kapital qo’yilmalar” tushunchalarining qanday bog’liqligi mavjud?",
+    "variantlar": {
+      "a": "kapital qo’yilmalar – bu investitsiyalarning bir turi",
+      "b": "investitsiyalar – bu kapital qo’yilmalarning tarkibiy qismi",
+      "c": "“investitsiyalar” va “kapital qo’yilmalar” tushunchalari bir xil ma’noga ega",
+      "d": "“investitsiyalar” va “kapital qo’yilmalar” tushunchalari o’zaro bog’liq emas"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Emissiya – bu …",
+    "variantlar": {
+      "a": "Pul yoki qimmatli qog’ozni muomalaga chiqarish jarayoni",
+      "b": "Pul yoki qimmatli qog’ozni muomalaga chiqaruvchi shaxs",
+      "c": "Hosilaviy qimmatli qog’ozlarni muomalaga chiqarish",
+      "d": "Qimmatli qog’ozni bir turi"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri Jahon banki tarkibiga kirmaydi?",
+    "variantlar": {
+      "a": "Xalqaro valyuta fondi",
+      "b": "Xalqaro tiklanish va taraqqiyot banki",
+      "c": "Xalqaro taraqqiyot assotsiatsiyasi",
+      "d": "Xalqaro moliya korporatsiyasi"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri Jahon banki tarkibiga kiradi?",
+    "variantlar": {
+      "a": "Xalqaro tiklanish va taraqqiyot banki",
+      "b": "Xalqaro valyuta fondi",
+      "c": "Yevropa tiklanish va taraqqiyot banki",
+      "d": "Osiyo taraqqiyot banki"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Emitent – bu …",
+    "variantlar": {
+      "a": "Pul yoki qimmatli qog’ozni muomalaga chiqaruvchi shaxs",
+      "b": "Pul yoki qimmatli qog’ozni muomalaga chiqarish jarayoni",
+      "c": "Hosilaviy qimmatli qog’ozlarni muomalaga chiqarish",
+      "d": "Qimmatli qog’ozni bir turi"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Investitsiya resurslari qaysi javobda to’g’ri ko’rsatilgan?",
+    "variantlar": {
+      "a": "Pul mablag’lari, ko’char va ko’chmas mulk, intellektual mulk",
+      "b": "Investorlar va investitsiya faoliyati subyektlari",
+      "c": "Sarmoyasi bo’lgan shaxs",
+      "d": "Investitsiya faoliyati subyektlari va obyektlari"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Kreditlashning imtiyozli davri nimani anglatadi?",
+    "variantlar": {
+      "a": "Kredit bo’yicha asosiy qarzni emas, balki faqat foizlar to’lanadigan davr",
+      "b": "Kredit bo’yicha foizlarni emas, balki faqat asosiy qarz to’lanadigan davr",
+      "c": "Kredit bo’yicha asosiy qarzni ham, foizlarni ham to’lamaydigan davr",
+      "d": "Qarzdorga soliq va bojxona imtiyozlari beriladigan davr"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "“BERI” indeksi ko’rsatkichlariga qo’yiladigan ballar oralig’i qanday?",
+    "variantlar": {
+      "a": "0-4 ballgacha",
+      "b": "0-5 ballgacha",
+      "c": "0-10 ballgacha",
+      "d": "0-14 ballgacha"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "«BERI» indeksida qancha ko’rsatkich hisobga olinadi?",
+    "variantlar": {
+      "a": "15 ta ko’rsatkich",
+      "b": "20 ta ko’rsatkich",
+      "c": "10 ta ko’rsatkich",
+      "d": "5 ta ko’rsatkich"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "O’zbekiston Respublikasining “Investitsiyalar va investitsiya faoliyati to’g’risida”gi Qonuniga",
+    "variantlar": {
+      "a": "iqtisodiy, ijtimoiy va boshqa foyda olish uchun investitsiyalarni amalga oshirishg",
+      "b": "belgilangan maqsadlarga erishish uchun investor tomonidan qabul qilinadigan majburiyat",
+      "c": "investitsiya faoliyati subyektlarining investitsiyalarni amalga oshirish bila",
+      "d": "investitsiya faoliyati subyektlari o‘rtasida tuziladigan, investitsiya"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Investorlarning huquq va majburiyatlari quyida keltirilgan qaysi qonunda to’liq belgilangan?",
+    "variantlar": {
+      "a": "O’zbekiston Respublikasining “Investitsiyalar va investitsiya faoliyati to’g’risida”gi Qonunida",
+      "b": "O’zbekiston Respublikasining “Tadbirkorlik faoliyati to’g’risida”gi Qonunida",
+      "c": "O’zbekiston Respublikasining “Lizing to’g’risida”gi Qonunida",
+      "d": "O’zbekiston Respublikasining “Maxsus iqtisodiy zonalar to’g’risida”gi Qonunida"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Moliyaviy investitsiya obyektlari bo’lib .... hisoblanadi",
+    "variantlar": {
+      "a": "Qimmatli qog’ozlar",
+      "b": "Korxonaning aylanma fondlari",
+      "c": "Korxonaning asosiy fondlari",
+      "d": "Qonun bilan ta’qiqlanmagan tadbirkorlik faoliyatining barcha turlari"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Quyidagilardan qay biri investitsiya loyihalari iqtisodiy samaradorligini baholashning diskontlash usullari tarkibiga kirmaydi?",
+    "variantlar": {
+      "a": "Qoplash muddati usuli",
+      "b": "Sof joriy qiymat usuli",
+      "c": "Foydaning ichki me’yori usuli",
+      "d": "Rentabellik indeksi usuli"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Inson potentsiali, malakasi va ishlab chiqarish tajribasiga qo’yilgan investitsiya deb … tushuniladi",
+    "variantlar": {
+      "a": "Ijtimoiy investitsiya",
+      "b": "Innovatsion investitsiya",
+      "c": "Kapital investitsiya",
+      "d": "Moliyaviiy investitsiya"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Mulkchilik shakliga ko’ra investitsiyalar quyidagicha turlarga bo’linadi:",
+    "variantlar": {
+      "a": "Davlat, xususiy, chet el, aralash investitsiyalar",
+      "b": "Real, moliyaviy va intelektual investitsiyalar",
+      "c": "Uzoq muddatli va qiisqa muddatli investitsiyalar",
+      "d": "Kapital, ijtimoiy va innovatsiya"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "O’zbekiston Respublikasining “Investitsiyalar va investitsiya faoliyati to’g’risida”gi Qonuniga ko’ra mo’ljallangan obyektiga ko’ra investitsiyalar quyidagicha turlarga bo’linadi:",
+    "variantlar": {
+      "a": "Kapital, moliyaviy va ijtimoiy investitsiyalar",
+      "b": "Real, moliyaviy va intelektual investitsiyalar",
+      "c": "Uzoq muddatli va qiisqa muddatli investitsiyalar",
+      "d": "Davlat, xususiy, chet el, aralash investitsiyalar"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Investitsiya loyihasining hayotiylik sikli qanday fazalardan iborat?",
+    "variantlar": {
+      "a": "Investitsiya oldi, investitsiya, ekspluatatsiya",
+      "b": "Innovatsiya, investitsiya, realizatsiya",
+      "c": "Investitsiya, tadbiq qilish, ekspluatatsiya",
+      "d": "Marketing, investitsiya, boshqaruv"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Quyidagilardan qay biri kreditlash tamoyillariga kirmaydi?",
+    "variantlar": {
+      "a": "Likvidlilik",
+      "b": "Muddatlilik",
+      "c": "Foizlilik",
+      "d": "Ta’minlanganlik"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Mamlakatimizdagi qonunchilikka ko’ra qaysi obyektlarga investitsiyalash ta’qiqlanadi?",
+    "variantlar": {
+      "a": "Sanitar–gigiyena, ekologik, arxitektura – shaharsozlik normalariga javob bermaydigan obyektlarga",
+      "b": "Davlat investitsiya dasturiga kiritilmagan obyektlarga",
+      "c": "Kutilayotgan o’rtacha daromad normasidan past daromad keltiruvchi obyektlarga",
+      "d": "Nomoddiy ne’matlar ishlab chiqarish obyektlari"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Investitsiya siyosati bu…",
+    "variantlar": {
+      "a": "Davlatning investitsiya resurslarni jalb qilish, ularni samara",
+      "b": "Davlatning investitsiya faoliyati subyektlarini soliqqa t",
+      "c": "Respublikadagi erkin iqtisodiy zonalarga investitsiyalarni jalb qilish bilan bog’liq siyosati",
+      "d": "Davlat ijtimoiy siyosatining asosiy qismi"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Investitsiya faoliyati subyektlarining investitsiyalarni amalga oshirish bilan bog‘liq harakatlari majmui qanday ataladi?",
+    "variantlar": {
+      "a": "Investitsiya faoliyati",
+      "b": "Investitsiya obyekti",
+      "c": "Investitsiya subyekti",
+      "d": "Investitsiya muhiti"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "«Investitsiyalar va investitsiya faoliyati to’g’risida»gi Qonun qachon qabul qilingan?",
+    "variantlar": {
+      "a": "25 dekabr 2019 yil",
+      "b": "24 dekabr 2014 yil",
+      "c": "30 aprel 1998 yil",
+      "d": "12 dekabr 2005 yil"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "O’zbekiston Respublikasining “Investitsiyalar va investitsiya faoliyati to’g’risida”gi Qonuniga ko’ra investitsiya majburiyati - ….",
+    "variantlar": {
+      "a": "belgilangan maqsadlarga erishish uchun investor tomonidan qabul qilinadigan majburiyat",
+      "b": "foyda olish uchun investitsiyani amalga oshirish yoki uni jalb etish",
+      "c": "investitsiyalar bilan bog‘liq harakatlar majmui",
+      "d": "investitsiya faoliyati subyektlari o‘rtasida tuziladigan, investitsiya shartnomasi taraflarining huquqlari"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Reinvestitsiya – bu…",
+    "variantlar": {
+      "a": "Investitsiyalash natijasida olingan foydani, investitsiya faoliyatiga qayta kiritish",
+      "b": "Oligan foydani  xorijiy investor tomonidan olib chiqib ketilishi",
+      "c": "Qimmatli qog’ozlarni qo’shimcha emissiya qilish",
+      "d": "Olingan foydani investitsiya faoliyati ishtirokchilari o’rtasida taqsimlash"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Investitsiya faoliyati subyektlari o‘rtasida tuziladigan, investitsiya shartnomasi taraflarining huquqlari, majburiyatlari va javobgarligini belgilaydigan yozma bitim qanday nomlanadi?",
+    "variantlar": {
+      "a": "Investitsiya shartnomasi",
+      "b": "Investitsiya loyihasi",
+      "c": "Investitsiya majburiyati",
+      "d": "Investitsiya faoliyati"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Qaysi qimmatbaho qog’oz o’z egasiga emitent -kompaniyaning aktivlarida ulushga egalik va qaror qabul qilishda ovoz berish huquqini beradi?",
+    "variantlar": {
+      "a": "Aksiya",
+      "b": "Obligatsiya",
+      "c": "Veksel",
+      "d": "Forvard"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Qaysi qimmatli qog’oz qiymatiga nisbatan egasiga qatʼiy belgilangan daromad keltiruvchi, qarzni qaytarib berish va foiz toʻlashni tasdiqlovchi majburiyatni tasdiqlaydi?",
+    "variantlar": {
+      "a": "Obligatsiya",
+      "b": "Forvard",
+      "c": "Veksel",
+      "d": "Aksiya"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Investitsiya dasturiga kiritilgan loyihalarni moliyalashtirish manbalarining turkumlanishi qaysi javobda to’g’ri ko’rsatilgan?",
+    "variantlar": {
+      "a": "Markazlashgan va markazlashmagan",
+      "b": "Ichki va tashqi kapital qo’yilmalar",
+      "c": "Davlat, xususiy, aralash, xorijiy",
+      "d": "Real va moliyaviy"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Infratuzilma loyihasi – bu…",
+    "variantlar": {
+      "a": "ijtimoiy, yo‘l-transport, suv xo‘jaligi va muhandislik-kommunikatsiya obyektlarini quri",
+      "b": "foyda olish maqsadida amalga oshirilishi rejalashtirilgan loyiha",
+      "c": "loyihani qanday amalga oshirish bo‘yicha asoslovchi hujjat",
+      "d": "eng ko‘p qiymat aks etgan asosiy texnik-iqtisodiy ko‘rsatkichlar va ishchi hujjatlar bo‘lgan hamda"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Quyidagi keltirilgan moliyalashtirish manbalaridan qaysi biri markazlashgan investitsiyalar tarkibiga kirmaydi?",
+    "variantlar": {
+      "a": "Tijorat banklari kreditlari",
+      "b": "Davlat kafolati ostidagi xorijiy investitsiya va kreditlar",
+      "c": "Budjet mablag’lari",
+      "d": "Budjetdan tashqari fondlar mablag’lari"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Investitsiya muhitiga ta'sir qiluvchi ijtimoiy omil qaysi javobda to'g'ri ko'rsatilgan?",
+    "variantlar": {
+      "a": "ishchi sinf tashkilotchiligi",
+      "b": "ishchi kuchi qiymati",
+      "c": "siyosiy barqarorlik",
+      "d": "xalqaro shartnomalarga amal qilish holati"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Chet ellik investorning hukumat kafolatlarisiz, tavakkalchilik sharoitlarida o‘z mablag‘lari yoki qarz mablag‘lari hisobidan investitsiyalari qanday ataladi?",
+    "variantlar": {
+      "a": "To’g’ridan-to’g’ri chet el investisiyalari",
+      "b": "Mahalliy investitsiyalar",
+      "c": "Investitsiya shartnomasi",
+      "d": "Investitsiya majburiyati"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Asosiy fondlarni yaratish va takror ko‘paytirishga, shuningdek moddiy ishlab chiqarishning boshqa shakllarini rivojlantirishga kiritiladigan investitsiyalar qanday ataladi?",
+    "variantlar": {
+      "a": "Kapital investitsiyalar",
+      "b": "Moliyaviy investitsiyalar",
+      "c": "Ijtimoiy investitsiyalar",
+      "d": "Innovatsion investitsiyalar"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Aksiyalar, korporativ, infratuzilmaviy va davlat obligatsiyalariga, shuningdek qimmatli qog‘ozlarning boshqa turlariga kiritiladigan investitsiyalar qanday ataladi?",
+    "variantlar": {
+      "a": "Moliyaviy investitsiyalar",
+      "b": "Kapital investitsiyalar",
+      "c": "Ijtimoiy investitsiyalar",
+      "d": "Innovatsion investitsiyalar"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri moliyalashtirishning qarz manbasi hisoblanadi?",
+    "variantlar": {
+      "a": "Obligatsiyalarni chiqarish",
+      "b": "Taqsimlanmagan foyda",
+      "c": "Aksiyalarning qo’shimcha emissiyasi",
+      "d": "Amortizatsiya ajratmalari"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri moliyalashtirishning jalb qilingan manbasi hisoblanadi?",
+    "variantlar": {
+      "a": "Aksiyalarning qo’shimcha emissiyasi",
+      "b": "Taqsimlanmagan foyda",
+      "c": "Obligatsiyalarni chiqarish",
+      "d": "Amortizatsiya ajratmalari"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Foyda, amortizatsiya ajratmalari, maxsus zaxira fondlari investitsion loyihalarni moliyalashtirishning qanday manbasi hisoblanadi?",
+    "variantlar": {
+      "a": "investorning o'z moliyaviy resurslari",
+      "b": "jalb qilingan moliyaviy resusrlar",
+      "c": "noan'anaviy moliyalashtirish manbalari",
+      "d": "markazlashgan qo'yilmalar"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Quyidagilardan qay biri investitsiya resursi bo’la olmaydi?",
+    "variantlar": {
+      "a": "Davlat",
+      "b": "Pul mablag’lari",
+      "c": "Ko’char va ko’chmas mulk",
+      "d": "Intellektual mulk"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Qurilish tashkiloti bilan buyurtmachi o’rtasida tuziladigan shartnoma qanday nomlanadi",
+    "variantlar": {
+      "a": "Pudrat shartnomasi",
+      "b": "Kredit shartnomasi",
+      "c": "Hamkorlik haqida kelishuv",
+      "d": "Ishonchnoma"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Investitsiya oldi tadqiqotlariga qaysi bosqich kirmaydi?",
+    "variantlar": {
+      "a": "loyihani ishga tushirish",
+      "b": "loyihani shakllantirish",
+      "c": "natijalarni baholash",
+      "d": "loyihani ishlab chiqish"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Investitsiya loyihasining ekspluatatsiya bosqichida nimalar amalga oshiriladi?",
+    "variantlar": {
+      "a": "loyiha ishga tushib, mahsulot ishlab chiqara boshlaydi",
+      "b": "loyihani moliyalashtirish amalga oshiriladi",
+      "c": "berilgan kreditlar qaytarilmaydi",
+      "d": "investitsiya oldi tadqiqotlari olib boriladi"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "O’zbekiston Respublikasining “Investitsiyalar va investitsiya faoliyati to’g’risida”gi Qonuniga ko’ra  investitsiya shartnomasi - ….",
+    "variantlar": {
+      "a": "investitsiya faoliyati subyektlari o‘rtasida tuziladigan, investitsiya shartnoma",
+      "b": "belgilangan maqsadlarga erishish uchun investor tomonidan qabul qilinadigan majburiyat",
+      "c": "investitsiyalar bilan bog‘liq harakatlar majmui",
+      "d": "iqtisodiy, ijtimoiy va boshqa foyda olish uchun investitsiyalarni amalga oshirishg"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Yirik investitsiya loyihalarini birgalikda moliyalashtirishni tashkil etish usullaridan biri qanday ataladi?",
+    "variantlar": {
+      "a": "Sindikatli kreditlash",
+      "b": "Lizing",
+      "c": "O’z-o’zini moliyalashtirish",
+      "d": "Budjetdan moliyalashtirish"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Lizingning asosiy turlari qaysi javobda ko’rsatilgan?",
+    "variantlar": {
+      "a": "Operativ va moliyaviy",
+      "b": "Tijorat va ijtimoiy",
+      "c": "Kapital va moliyaviy",
+      "d": "Innovatsion va ijtimoiy"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Mamlakatimizda lizing beruvchi sifatida kimlar qatnashadi?",
+    "variantlar": {
+      "a": "Lizing kompaniyalari va tijorat banklari",
+      "b": "Faqat tijorat banklari",
+      "c": "Faqat lizing kompaniyalari",
+      "d": "Lizing kompaniyalari va jismoniy shaxslar"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Mamlakatning ma’lum regioniga kiritiladigan investitsiyalarning samaradorligini va xavfsizligini ta’minlashga qaratilgan iqtisodiy, ijtimoiy va siyosiy shart-sharoitlar majmuasi qanday ataladi?",
+    "variantlar": {
+      "a": "Investitsiya muhiti",
+      "b": "Investitsiya dasturi",
+      "c": "Investitsiya jarayoni",
+      "d": "Investitsiya siyosati"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Markazlashtirilgan qo’yilmalar nimalarni o’z ichiga oladi?",
+    "variantlar": {
+      "a": "davlat mablag‘lari va chet el investitsiyalari",
+      "b": "davlat va bank kreditlari",
+      "c": "O’zbekiston Respublikasining norezidentlarining mablag’lari",
+      "d": "Qo’shma korxonalar, xorijiy korxonalar va xususiy korxonalarning mablag’lari"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Investitsiyalarni moliyalashtirishda korxonaning o’z mablag’lari tarkibiga qanday manbalar kiradi?",
+    "variantlar": {
+      "a": "Amortizatsiya ajratmalari; maxsus zaxira fondlari; sof foyda",
+      "b": "Tijorat bank kreditlari, aksiyalar emissiyasidan yig’ilgan mablag’lar",
+      "c": "Sof foyda; davlat kafolati bilan jalb qilingan investitsiya va kreditlar",
+      "d": "Tijorat bank kreditlari va davlat budjeti mablag’lari"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Investitsion loyihani moliyalashtirishning qarzga olingan manbasi bu?",
+    "variantlar": {
+      "a": "Obligatsiya, budjetdan tashqari fondlardan olingan kreditlar, bank kreditlari",
+      "b": "Aksiyalar emissiyasi",
+      "c": "Davlat budjeti mablag’lari va budjetdan tashqari fond mablag’lari",
+      "d": "Amortizatsiya ajratmalari; maxsus zaxira fondlari mablag’lari"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Markazlashtirilmagan kapital qo’yilmalar nimalarni o’z ichiga oladi?",
+    "variantlar": {
+      "a": "Korxonalar va aholi mablag’lari, to’g’ridan – to’g’ri xorijiy investitsiyalar",
+      "b": "Davlat hokimiyati va boshqaruvi organlari mablag’lari",
+      "c": "Aholi mablag’lari, hukumat kafolati ostidagi chet el investitsiyalari",
+      "d": "chet el investitsiyalari va korxona mablag‘lari"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Quyida keltirilganlardan qaysi biri loyihalarni o’z mablag’lari evaziga moliyalashtirish manbasi bo’la olmaydi?",
+    "variantlar": {
+      "a": "Uzoq muddatli kreditlar",
+      "b": "Amortizatsiya ajratmasi",
+      "c": "Sof foyda",
+      "d": "Taqsimlanmagan foyda"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Qaysi xalqaro moliyaviy tashkilot investorlarni sug‘urtalash xizmatlarini taklif etadi?",
+    "variantlar": {
+      "a": "Investitsiyalarni kafolatlash bo’yicha ko’p tomonlama agentlik",
+      "b": "Investitsion nizolarni hal etuvchi markaz",
+      "c": "Xalqaro tiklanish va taraqqiyot banki",
+      "d": "Xalqaro moliya korporatsiyasi"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Qaysi xalqaro moliyaviy tashkilot investorlar o’rtasidagi nizolarni tartibga soladi?",
+    "variantlar": {
+      "a": "Investitsion da’volarni tartibga soluvchi xalqaro markaz",
+      "b": "Xalqaro tiklanish va taraqqiyot banki",
+      "c": "Xalqaro moliya korporatsiyasi",
+      "d": "Investitsiyalarni kafolatlash bo’yicha ko’p tomonlama agentlik"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Korxona kreditga layoqatliligining asosiy ko’rsatkichlari qaysi javobda to’g’ri ko’rsatilgan?",
+    "variantlar": {
+      "a": "Qoplash koeffitsiyenti, likvidlilik koeffitsiyenti, mustaqillik koeffitsiyenti",
+      "b": "Kapitalning o’rtacha tortilganlik koeffitsiyenti, foydaning ichki me’yori koeffitsiyenti",
+      "c": "O’z aylanma mablag’lari mavjudligi koeffitsiyenti, aylanma mablag’lar aylanuvchanligi koeffitsiyenti",
+      "d": "Investitsiyalarning buxgalteriya rentabellik darajasi, muxtoriyat koeffitsiyenti"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Investorlarning qarz mablag’lari bu -",
+    "variantlar": {
+      "a": "Bank kreditlari",
+      "b": "Aksiyalar sotishdan kelgan mablag’lar",
+      "c": "Korxona foydasi",
+      "d": "Fuqarolarning pay badallari"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Korxonaning sof pul oqimi qanday aniqlanadi?",
+    "variantlar": {
+      "a": "Korxonaning sof foydasiga amortizatsiya ajratmalari qo’shiladi",
+      "b": "Korxonaning sof foydasidan amortizatsiya ajratmalari ayiriladi",
+      "c": "Mahsulot sotishdan tushgan tushumga amortizatsiya ajratmalari qo’shiladi",
+      "d": "Mahsulot sotishdan tushgan tushumdan amortizatsiya ajratmalari ayiriladi"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri lizing obyekti bo’la olmaydi?",
+    "variantlar": {
+      "a": "Yer maydoni",
+      "b": "Texnologiyalar",
+      "c": "Bino va inshootlar",
+      "d": "Transport vositalari"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Investitsion nizolarni tartibga soluvchi xalqaro markaz qachon va nima maqsadda tashkil etilgan?",
+    "variantlar": {
+      "a": "1966 yil, xorijiy investorlar va investitsiyalarni jalb etuvchi mamlakatlar",
+      "b": "1956 yil, rivojlanayotgan mamlakatlar xususiy sektorini qo‘llab-quvvatlash",
+      "c": "1945 yil, a‘zo mamlakatlar valyuta-moliya siyosatini muvofiqlashtirish",
+      "d": "1988 yil, investorlarni siyosiy risklardan sug‘urtalash yoki kafolatlash"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Islom taraqqiyot banki qachon va nima maqsadda tashkil etilgan?",
+    "variantlar": {
+      "a": "1974 yil, islom diniga e’tiqod qiluvchi mamlakatlarning rivojlanish loyihalarini investitsiyalash",
+      "b": "1991 yil, Markaziy va Sharqiy Yevropa mamlakatlariga bozor iqtisodiyotiga o‘tish bo‘yicha islohotlarni o‘tkazish",
+      "c": "1966 yil, Osiyo qit’asidagi rivojlanayotgan mamlakatlarga iqtisodiy rivojlanishda ko‘maklashish",
+      "d": "1956 yil, rivojlanayotgan mamlakatlar xususiy sektorini qo‘llab-quvvatlash"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Investitsiya loyihasini amalga oshirishda kutilgan daromadlarni ololmaslik yoki zararlarni yuzaga kelish ehtimoli qanday ataladi?",
+    "variantlar": {
+      "a": "Risk",
+      "b": "Tadbirkorlik",
+      "c": "Strategiya",
+      "d": "Rejalashtirish"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Korxonada pul oqimi qanday faoliyat turlari bo’yicha kuzatiladi?",
+    "variantlar": {
+      "a": "Investitsion faoliyat, operatsion faoliyat, moliyaviy faoliyat",
+      "b": "Investitsiya faoliyati, lizing faoliyati, birja faoliyati",
+      "c": "Investitsion faoliyat, qimmatli qog’ozlar bilan bog’liq faoliyat, qarz faoliyati",
+      "d": "Investitsion faoliyat, kapital qo’yilmalar, operatsion faoliyat"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Dastlab qaysi turdagi erkin iqtisodiy zonalar tashkil qilingan?",
+    "variantlar": {
+      "a": "savdoga yo'naltirilgan zonalar",
+      "b": "ishlab chiqarishga yo'naltirilgan zonalar",
+      "c": "xizmat ko'rsatishga yo'naltirilgan zonalar",
+      "d": "texnologik zonalar"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Erkin iqtisodiy zonalar tashkil etishda qanday yondoshuvlar mavjud?",
+    "variantlar": {
+      "a": "hududiy va funksional",
+      "b": "liberal va demokratik",
+      "c": "savdo va ishlab chiqarish",
+      "d": "texnik va texnologik"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Real investitsiyaning o’ziga xosligi bu...",
+    "variantlar": {
+      "a": "Korxonaning asosiy faoliyati bilan bevosita bog’liqligi",
+      "b": "Qimmatli qog’ozlarga kiritilishi",
+      "c": "To’lanishi, qaytarilishi, muddatliligi va ta’minlanganligi",
+      "d": "Investitsiyalash obyektlarining yuqori likvidligi"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Korxona kreditga layoqatliligining qo’shimcha ko’rsatkichlari qaysi javobda to’g’ri ko’rsatilgan?",
+    "variantlar": {
+      "a": "O’z aylanma mablag’lari mavjudligi koeffitsiyenti, aylanma mablag’lar aylanuvchanligi koeffitsiyenti",
+      "b": "Kapitalning o’rtacha tortilganlik koeffitsiyenti, foydaning ichki me’yori koeffitsiyenti",
+      "c": "Qoplash koeffitsiyenti, likvidlilik koeffitsiyenti, mustaqillik koeffitsiyenti",
+      "d": "Investitsiyalarning buxgalteriya rentabellik darajasi, muxtoriyat koeffitsiyenti"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Davlat o’z funksiyalarini bajarish maqsadida, investitsiya faoliyatida kim sifatida ishtirok etadi?",
+    "variantlar": {
+      "a": "qonun chiqaruvchi va investor",
+      "b": "tartibga soluvchi organ va qimmatli qog’ozlar bozorida diler",
+      "c": "to’g’ridan-to’g’ri xorijiy investitsiyalar ishtirokidagi barcha loyihalarni kafolatlovchi",
+      "d": "mahalliy va xorijiy investorlar o’rtasida vositachi"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Likvidlik bu -",
+    "variantlar": {
+      "a": "Tez pulga aylanuvchanlik",
+      "b": "Kreditga layoqatlilik",
+      "c": "To’lovga layoqatlilik",
+      "d": "Sekin pulga aylanuvchanlik"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Quyidagilardan qay biri investitsiya loyihalari iqtisodiy samaradorligini baholashning diskontlash usullari tarkibiga kiradi?",
+    "variantlar": {
+      "a": "Foydaning ichki me’yori usuli",
+      "b": "Qoplash muddati usuli",
+      "c": "Foydaning oddiy me’yori usuli",
+      "d": "Investitsiyalarning buxgalteriya rentabellik darajasi"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Sof joriy qiymat – bu…",
+    "variantlar": {
+      "a": "Diskontlashtirilgan daromad va diskontlashtirilgan xarajat o’rtasidagi farqni ifodalovchi qiymat",
+      "b": "Diskontlashtirilgan daromadlarning diskontlashtirilgan xarajatlarga nisbati",
+      "c": "O’rtacha daromadni investitsiyalarning o’rtacha yillik hajmiga nisbati",
+      "d": "O’rtacha daromad va investitsiyalarning o’rtacha yillik hajmi o’rtasidagi farqni ifodalovchi qiymat"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri erkin savdo zonalari tarkibiga kirmaydi?",
+    "variantlar": {
+      "a": "Ilmiy parklar",
+      "b": "Erkin bojxona zonalari",
+      "c": "Erkin portlar",
+      "d": "Tranzit zonalar"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Quyidagilarning qaysi biri ilmiy-texnologik zonalar tarkibiga kirmaydi?",
+    "variantlar": {
+      "a": "offshor zonalar",
+      "b": "tadqiqot parki",
+      "c": "innovatsion markaz",
+      "d": "ilmiy parklar"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Davlatning investitsiya faoliyatiga ta’sir qilish usullarini qaysi guruhlarga bo’lish mumkin?",
+    "variantlar": {
+      "a": "Iqtisodiy va ma’muriy",
+      "b": "Iqtisodiy va ijtimoiy",
+      "c": "Ma’muriy va jinoiy",
+      "d": "Birlamchi va ishlab chiqarish"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Banklarning kelishuv tuzib, bir loyihani kreditlash uchun birlashishi qanday ataladi?",
+    "variantlar": {
+      "a": "Bank sindikati",
+      "b": "Kredit uyushmasi",
+      "c": "Bank uyushmasi",
+      "d": "Bank assotsiatsiyasi"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Investitsiya muhitiga ta'sir qiluvchi iqtisodiy omil qaysi javobda to'g'ri ko'rsatilgan?",
+    "variantlar": {
+      "a": "ishchi kuchi qiymati",
+      "b": "siyosiy barqarorlik",
+      "c": "ishchi sinf tashkilotchiligi",
+      "d": "xalqaro shartnomalarga amal qilish holati"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Loyiha risklari deganda nimani tushunasiz?",
+    "variantlar": {
+      "a": "Investitsiya loyihalarini amalga oshirishga ",
+      "b": "Loyihani amalga oshirishdagi noaniqliklar",
+      "c": "Loyihani amalga oshirish uchun kerak bo’ladigan moliyaviy resurslar",
+      "d": "Loyiha ishtirokchilari riski"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Investitsiya institutlari deganda nimani tushunasiz?",
+    "variantlar": {
+      "a": "Investitsiya loyihalarini moliyalashtirish bilan shug’ullanuvchi tashkilotlar",
+      "b": "Investitsiyaga oid maslahat beruvchi kompaniyalar",
+      "c": "Faqat xorijiy investitsiyalar bilan shug’ullanuvchi firmalar",
+      "d": "Faqat ichki investitsiyalar bilan shug’ullanuvchi kompaniyalar"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Quyida keltirilganlardan qaysi biri loyihalarni o’z mablag’lari evaziga moliyalashtirish manbasi bo’la olmaydi?",
+    "variantlar": {
+      "a": "Uzoq muddatli kreditlar",
+      "b": "Amortizatsiya ajratmasi",
+      "c": "Aksioner kapital",
+      "d": "Taqsimlanmagan foyda"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "O’zbekiston Respublikasining “Lizing to’g’risida”gi qonuni qachon qabul qilingan?",
+    "variantlar": {
+      "a": "1999 y 14 aprel",
+      "b": "1998 y 14 mart",
+      "c": "1997 y 30 oktyabr",
+      "d": "1996 y 2 noyabr"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Offshor zonalar erkin iqtisodiy zonalarning qaysi turiga mansub?",
+    "variantlar": {
+      "a": "xizmat ko'rsatishga yo'naltirilgan zonalar",
+      "b": "savdoga yo'naltirilgan zonalar",
+      "c": "ishlab chiqarishga yo'naltirilgan zonalar",
+      "d": "texnologik zonalar"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Rentabellik indeksi – bu…",
+    "variantlar": {
+      "a": "Diskontlashtirilgan daromadlarning diskontlashtirilgan xarajatlarga nisbati",
+      "b": "Diskontlashtirilgan daromad va diskontlashtirilgan xarajat o’rtasidagi farqni ifodalovchi qiymat",
+      "c": "Diskontlashtirilgan daromadlarning diskontlashtirilgan xarajatlarga tengligini ifodalovchi daromadlilik darajasi",
+      "d": "O’rtacha daromad va investitsiyalarning o’rtacha yillik hajmi o’rtasidagi farqni ifodalovchi qiymat"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Sof joriy qiymat nolga teng bo’lgandagi diskont me’yori qaysi usul orqali aniqlanadi?",
+    "variantlar": {
+      "a": "Foydaning ichki me’yori usuli",
+      "b": "Rentabellik indeksi usuli",
+      "c": "Diskontlashtirilgan qoplash muddati usuli",
+      "d": "Investitsiyalarning buxgalteriya rentabellik darajasi"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Hosilaviy qimmatli qog’ozlar – bu …",
+    "variantlar": {
+      "a": "Forvard, fyuchers, optsion",
+      "b": "Aksiyalar, obligatsiyalar, veksel",
+      "c": "Pul mablag’lari, valyuta, to’lov hujjatlari",
+      "d": "Nomoddiy aktivlar"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Xalqaro investitsiya siyosati bu –",
+    "variantlar": {
+      "a": "xalqaro investitsiyalar harakatini erkinlashtirishga qaratilgan xalqaro tartibga solish chora-tadbirlari tizimi",
+      "b": "ikki mamlakat hukumatlari o’rtasida investitsiyalarni amalga oshirish maqsadida tuziladigan maxsus shartnoma",
+      "c": "xalqaro investitsiyalar sohasida tartibga solishning umumiy qoidalarini ishlab chiqishga qaratilgan shartnoma",
+      "d": "investitsiyalarni amalga oshirish xususida imzolanadigan maxsus shartnoma"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Qaysi qimmatbaho qog’oz o’z egasining kelajakda aktivlarni oldindan belgilab qo’yilgan narxda sotib olish yoki sotish majburiyatini tasdiqlaydi?",
+    "variantlar": {
+      "a": "Forvard",
+      "b": "Obligatsiya",
+      "c": "Veksel",
+      "d": "Aksiya"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Kapital qurilishda tanlov savdolari qanday nomlanadi?",
+    "variantlar": {
+      "a": "Tender",
+      "b": "Pudrat",
+      "c": "Kontsessiya",
+      "d": "Auktsion"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "O‘zbekiston Respublikasining “Maxsus iqtisodiy zonalar to’g’risida”gi Qonuni qachon qabul qilingan?",
+    "variantlar": {
+      "a": "2020 yil 17 fevral",
+      "b": "2019 yil 17 fevral",
+      "c": "2018 yil 17 fevral",
+      "d": "2017 yil 17 fevral"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Franshiza – bu…",
+    "variantlar": {
+      "a": "Mahsulot va tovarlarni ishlab chiqarishda o’zga korxonalarning texnologiy",
+      "b": "Xaridor tomondan faoliyat yuritayotgan kompaniya (firma, korxona, biznes)ni ",
+      "c": "Raqobat muhitida maqsadli yo’naltirilgan fan texnika natijalari yutuqlarini, yangi",
+      "d": "Foyda olish maqsadida soliq va bojxona organlaridan tegishli tartibda "
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Maxsus iqtisodiy zona – bu …",
+    "variantlar": {
+      "a": "hududni rivojlantirish uchun investitsiyalarni jalb etish maqsadida maxsus ajratilgan",
+      "b": "belgilangan maqsadlarga erishish uchun investor tomonidan qabul qilinadigan majburiyat",
+      "c": "investitsiyalar bilan bog‘liq harakatlar majmui",
+      "d": "iqtisodiy, ijtimoiy va boshqa foyda olish uchun investitsiyalarni amalga oshirishga "
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Investitsiya faoliyatidan olingan daromadning kutilayotgan miqdoridan farqlanish ehtimolligi qanday risk hisoblanadi?",
+    "variantlar": {
+      "a": "investitsion risk",
+      "b": "ekologik risk",
+      "c": "ijtimoiy risk",
+      "d": "siyosiy risk"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Diskontlashtirilgan qoplash muddati bilan oddiy qoplash muddati o’rtasida farq bo’ladimi?",
+    "variantlar": {
+      "a": "Bo’ladi, diskontlashtirilgan qoplash muddati oddiy qoplash muddatidan uzoqroqni tashkil etadi",
+      "b": "Bo’ladi, diskontlashtirilgan qoplash muddati oddiy qoplash muddatidan qisqaroqni tashkil etadi",
+      "c": "Bo’lmaydi, diskontlashtirilgan qoplash muddati bilan oddiy qoplash muddati teng bo’ladi",
+      "d": "Bo’lmaydi, diskontlashtirilgan qoplash muddati loyiha samaradorligini baholashda qo’llanilmaydi"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Turistik-rekratsion zona – bu…",
+    "variantlar": {
+      "a": "Zamonaviy turistik infratuzilma obyektlarini barpo etish uchun tashkil etiladigan hudud",
+      "b": "Konsignatsiya omborlari, maxsus bojxona va soliq rejimi bo’lgan hudud",
+      "c": "Logistika xizmatlarini rivojlantirish maqsadida tashkil etiladigan hudud",
+      "d": "Innovatsiya infratuzilmasini rivojlantirish maqsadida ilmiy tashkilotlar to’plangan hudud"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Erkin savdo zonalari – bu…",
+    "variantlar": {
+      "a": "Konsignatsiya omborlari, maxsus bojxona va soliq rejimi bo’lgan hudud",
+      "b": "Xizmatlarni rivojlantirish maqsadida tashkil etiladigan hudud",
+      "c": "Hamkorlikdagi loyihalar",
+      "d": "Zamonaviy turistik infratuzilma obyektlarini barpo etish uchun tashkil etiladigan hudud"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Mamlakatimizda birinchi erkin iqtisodiy zona qachon, qaysi hududda tashkil etildi?",
+    "variantlar": {
+      "a": "2008 yil Navoiy viloyatida",
+      "b": "2012 yil Angren shahrida",
+      "c": "2013 yil Jizzax viloyatida",
+      "d": "2006 yil Xorazm viloyatida"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Xorijiy investitsiyalarning kiritilish maqsadiga ko’ra turlari qaysi javobda to’g’ri ko’rsatilgan?",
+    "variantlar": {
+      "a": "to’g’ridan-to’g’ri va portfel",
+      "b": "davlat va xususiy",
+      "c": "pul va tovar",
+      "d": "tadbirkorlik va ssuda"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Mamlakat qonunchiligidagi o’zgarishlar va hukumatning tez-tez almashishi qanday omilga kiradi?",
+    "variantlar": {
+      "a": "Siyosiy risklar",
+      "b": "Ishlab chiqarish salohiyati",
+      "c": "Moslashish sharoitlari",
+      "d": "Me’yoriy-huquqiy sharoitlar"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "To’g’ridan-to’g’ri xorijiy investitsiyalarning boshqa turdagi qo’yilmalardan asosiy farqi nimada?",
+    "variantlar": {
+      "a": "Investitsiyalash yo’nalishi, hajmi va muddatini investor o’zi tanlaydi va o’zi nazorat qiladi",
+      "b": "Xorijiy sherik ustav kapitalga o’z ulushini to’g’ridan-to’g’ri kiritish imkoniyatiga ega bo’lmaydi",
+      "c": "Qo’yilmalardan yuqori darajada foyda olishda va risklarning yo’qligida",
+      "d": "Investitsiya risklarining past darajada ekanligi"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Pul mablag’lari, ko’char va ko’chmas mulk, intellektual mulk - bu…",
+    "variantlar": {
+      "a": "Investitsiya resurslari",
+      "b": "Investitsiya subyektlari",
+      "c": "Investitsiya faoliyati",
+      "d": "Investitsiya jarayoni"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Kredit bo’yicha asosiy qarzni emas, balki faqat foizlar to’lanadigan davr qanday ataladi?",
+    "variantlar": {
+      "a": "Kreditlashning imtiyozli davri",
+      "b": "Kreditlash tamoyili",
+      "c": "Kreditlash muddati",
+      "d": "Kreditlash ta’minoti"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Diversifikatsiya nima?",
+    "variantlar": {
+      "a": "riskni kamaytirishga mo‘ljallangan investitsiya strategiyasi",
+      "b": "faqatgina firmaga ta’sir etadigan risk omillari",
+      "c": "iqtisodiyot bo’yicha yoyilgan risk bo’lib, butun bozorga ta’sir etadi",
+      "d": "kapitalga tasir qiluvchi omillarni o’rganish va baholash"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Dunyoning taniqli reyting agentliklari qaysi qatorda to’g’ri ko’rsatilgan?",
+    "variantlar": {
+      "a": "Standart&Poor’s, Moody’s",
+      "b": "Ifc, united nations",
+      "c": "YUNIDO, S&P",
+      "d": "BERI, ICOR"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "ICOR ko’rsatkichi qanday aniqlanadi?",
+    "variantlar": {
+      "a": "I / ∆YaIM",
+      "b": "∆YaIM / I",
+      "c": "I / MD",
+      "d": "MD / I"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Kapital qurilish ishlarini olib borish usullarini ko’rsating",
+    "variantlar": {
+      "a": "Pudrat va xo’jalik usulida",
+      "b": "Pudrat va shartnoma usulida",
+      "c": "Texnik va texnologik usulda",
+      "d": "Xo’jalik va dastur usulida"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Tender qaysi shakllarda o’tkazilishi mumkin?",
+    "variantlar": {
+      "a": "Ochiq va yopiq",
+      "b": "Pudrat va xo’jalik",
+      "c": "Pudrat va subpudrat",
+      "d": "Buyurtmachi va pudratchi"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Korxona pul mablag’lari oqimi qanday guruhlanadi?",
+    "variantlar": {
+      "a": "Pul tushumlari va pul chiqimlari",
+      "b": "Kredit va investitsiyalar",
+      "c": "Amortizatsiya ajratmalari va foyda",
+      "d": "Kreditlar va amortizatsiya jarimalari"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Investitsiya loyihalari iqtisodiy samaradorligini baholashning oddiy usullari qaysi javobda to’g’ri ko’rsatilgan?",
+    "variantlar": {
+      "a": "qoplash muddati, foydaning oddiy me’yori",
+      "b": "sof joriy qiymat, rentabellik indeksi, foydaning ichki me’yori",
+      "c": "rentabellik indeksi, foydaning oddiy me’yori",
+      "d": "foydaning ichki me’yori, qoplash muddati"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Nomoddiy aktivlar bu…",
+    "variantlar": {
+      "a": "Xo’jalik yuritish faoliyatida uzoq vaqt (bir yildan ko’p vaqt) mobaynida foydalanilgan",
+      "b": "Sanoat intellektual mulki tarkibiga tegishli hukumat muassasi tomonidan berilgan patent bilan e’tirof etilgan ixtirolar kiradi",
+      "c": "Yangi yaratilgan mahsulot, texnologiya va faoliyatni qo’llash, ishlab chiqarish, sotish va nazorat",
+      "d": "Ma’lum bir faoliyat turi bilan shug’ullanish huquqini beruvchi rasmiy xujjat bulib yil davomida foydalanish huquqini beradi"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Patent-bu…",
+    "variantlar": {
+      "a": "Yangi yaratilgan mahsulot, texnologiya va faoliyatni qo’llash, ishlab chiqarish, sotish va nazorat qilish",
+      "b": "Ma’lum bir faoliyat turi bilan shug’ullanish huquqini beruvchi rasmiy xujjat bulib yil davomida foydalanish huquqini beradi",
+      "c": "Davlat tomonidan faqat yuridik shaxslarga beriladigan ruxsat bo’lib ular davlatga o’z daromadlarini 1%ini berishlari shart",
+      "d": "Mahsulot va tovarlarni ishlab chiqarishda o’zga korxonalarning texnologiya"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Qaysi ko‘rsatkich hisob-kitoblarda pul oqimlarini diskontlashni nazarda tutmaydi?",
+    "variantlar": {
+      "a": "Investitsiyalarni qaytarish muddati (PP)",
+      "b": "Investitsiyalarning rentabellik indeksi (PI)",
+      "c": "Foydaning ichki me’yori (IRR)",
+      "d": "Sof joriy qiymat (NPV)"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Gudvill – bu…",
+    "variantlar": {
+      "a": "Xaridor tomondan faoliyat yuritayotgan kopaniya (firma, korxona, biznes)ni soti",
+      "b": "Raqobat muhitida maqsadli yo’naltirilgan fan texnika natijalari yutuqlarini, yangi",
+      "c": "Mahsulot va tovarlarni ishlab chiqarishda o’zga korxonalarning texnologiya, algoritm",
+      "d": "Foyda olish maqsadida soliq va bojxona organlaridan tegishli tartibda imtiyozlar orqali"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Risklarni boshqarishning asosiy maqsadi nimadan iborat?",
+    "variantlar": {
+      "a": "risklarni pasaytirish hisoblanadi",
+      "b": "risklarni xorijiy investorga yetkazish",
+      "c": "risklar mohiyatini tadbirkorlarga tushuntirish",
+      "d": "risklar ijobiy tomonlarini o’rganish"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Milliy xo’jalik komplekslarining o’zaro yaqinlashishi va bir-biriga kirib borishi jarayoni qanday ataladi?",
+    "variantlar": {
+      "a": "Integratsiya",
+      "b": "Modernizatsiya",
+      "c": "Diversifikatsiya",
+      "d": "Innovatsiya"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Sanoat tarmog'i iqtisodiyotning qaysi sektori tarkibiga kiradi?",
+    "variantlar": {
+      "a": "Iqtisodiyotning real sektori",
+      "b": "Iqtisodiyotning moliyaviy sektori",
+      "c": "Iqtisodiyotning ijtimoiy sektori",
+      "d": "Iqtisodiyotning huquqiy sektori"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Birjalar iqtisodiyotning qaysi sektori tarkibiga kiradi?",
+    "variantlar": {
+      "a": "Iqtisodiyotning moliyaviy sektori",
+      "b": "Iqtisodiyotning real sektori",
+      "c": "Iqtisodiyotning ijtimoiy sektori",
+      "d": "Iqtisodiyotning huquqiy sektori"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri kichik biznes subyektlari tarkibiga kirmaydi?",
+    "variantlar": {
+      "a": "Transmilliy kompaniyalar",
+      "b": "Yakka tartibdagi tadbirkorlar",
+      "c": "Mikrofirmalar",
+      "d": "Oilaviy tadbirkorlik"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Oferent – bu….",
+    "variantlar": {
+      "a": "Tenderda qatnashuvchi da’vogar",
+      "b": "Tenderda qatnashish uchun taklif",
+      "c": "Tender hujjatlari",
+      "d": "Tenderni uyushtiruvchi"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Oferta – bu….",
+    "variantlar": {
+      "a": "Tenderda qatnashish uchun taklif",
+      "b": "Tenderda qatnashuvchi da’vogar",
+      "c": "Tender hujjatlari",
+      "d": "Tenderni uyushtiruvchi"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Hududiy joylashtirilish bo’yicha investitsiyalarning turlarini ko’rsatib bering.",
+    "variantlar": {
+      "a": "Ichki va tashqi investitsiyalar",
+      "b": "Moliyaviy, real va intellektual investitsiyalar",
+      "c": "To’g’ri chet el investitsiyalari va davlat investitsiyalari",
+      "d": "Portfel va portfelsiz investitsiyalar"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Sindikatli kreditlash ….",
+    "variantlar": {
+      "a": "Loyihaviy moliyalashtirishning bir shakli",
+      "b": "Venchurli moliyalashtirishning bir ko’rinishi",
+      "c": "Qisqa muddatli kreditning bir turi",
+      "d": "Faqat jismoniy shaxslarga beriladigan kredit turi"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Portfel xorijiy investitsiyalar kiritish shaklini xususiyatlab bering.",
+    "variantlar": {
+      "a": "bir nechta korxonalarning aksiya va obligatsiyalariga egalik qilish",
+      "b": "faqat bitta korxonaning aksiya va obligatsiyalariga egalik qilish",
+      "c": "faqat bitta korxonaning ko’p miqdordagi aksiyasiga egalik qilish",
+      "d": "bir nechta korxonalarning ko’p miqdordagi aksiyasiga egalik qilish"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Sof joriy qiymatning qanday ko’rinishida loyiha samaradorligi bo’yicha ijobiy xulosa qilinadi?",
+    "variantlar": {
+      "a": "Musbat ko’rsatkichida",
+      "b": "Manfiy ko’rsatkichida",
+      "c": "Nolga teng bo’lganda",
+      "d": "Qayta moliyalashtirish stavkasidan katta bo’lganda"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri maxsus iqtisodiy zonalarni tashkil etish maqsadiga kirmaydi?",
+    "variantlar": {
+      "a": "Qimmatli qog’ozlarni chiqarish",
+      "b": "Ma’lum bir hududni jadal rivojlantirish",
+      "c": "Investitsiyalarni jalb etish",
+      "d": "Yuqori texnologiyalar va boshqaruv tajribasini jalb etish"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Venchur investitsiyalarning xususiyati qaysi javobda to’g’ri ko’rsatilgan?",
+    "variantlar": {
+      "a": "Sinalmagan g’oyaga kiritiladigan investitsiyalar",
+      "b": "Faqat qimmatli qog’ozlarga kiritiladigan qo’yilmalar",
+      "c": "Nomoddiy aktivlarga kiritiladigan investitsiyalar",
+      "d": "Egasiga bir xilda daromad keltiradigan investitsiyalar"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Erkin iqtisodiy zonalarni tashkil qilishdan ko’zlangan ijtimoiy maqsad qaysi javobda to’g’ri ko’rsatilgan?",
+    "variantlar": {
+      "a": "Ish o’rinlarini oshirish va aholini ish bilan ta’minlash",
+      "b": "Boshqaruvning yangi shaklini qo’llash",
+      "c": "Foydalanilayotgan ishlab chiqarish quvvatlari samaradorligini oshirish",
+      "d": "Eksport mahsuloti ishlab chiqarishni kengaytirish"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Sof joriy qiymat nolga teng bo’lganda loyiha samaradorligi bo’yicha qanday xulosa qilinadi?",
+    "variantlar": {
+      "a": "Loyiha daromad va xarajatlari o’zaro teng",
+      "b": "Samarador loyiha",
+      "c": "Samarasiz loyiha",
+      "d": "Loyiha diskont stavkasi qayta moliyalashtirish stavkasidan katta"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Ma’muriy imtiyozlar deganda qanday imtiyozlar nazarda tutiladi?",
+    "variantlar": {
+      "a": "Korxonalarni ro’yxatdan o’tkazishni osonlashtirish, viza tartibini soddalashtirish ",
+      "b": "Kommunal xizmatlarga pastroq tariflar, yer uchastkalari va ishlab chiqarish quvvatlaridan",
+      "c": "Tashqi savdo operatsiyalarining soddalashtirilgan tartibini qo’llash bilan bog’liq imtiyozlar",
+      "d": "Tadbirkorlarning belgilangan yo’nalishdagi faoliyati va aniq belgilangan ishlab chiqarish turlari "
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Soliq imtiyozlari deganda qanday imtiyozlar nazarda tutiladi?",
+    "variantlar": {
+      "a": "Tadbirkorlarning belgilangan yo’nalishdagi faoliyati va aniq belgilangan ishlab chiqarish turlari",
+      "b": "Tashqi savdo operatsiyalarining soddalashtirilgan tartibini qo’llash bilan bog’liq imtiyozlar",
+      "c": "Kommunal xizmatlarga pastroq tariflar, yer uchastkalari va ishlab chiqarish quvvatlaridan foydalanishda",
+      "d": "Korxonalarni ro’yxatdan o’tkazishni osonlashtirish, viza tartibini soddalashtirish bilan bog’liq imtiyozlar"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Bojxona imtiyozlari deganda qanday imtiyozlar nazarda tutiladi?",
+    "variantlar": {
+      "a": "Tashqi savdo operatsiyalarining soddalashtirilgan tartibini qo’llash bilan bog’liq imtiyozlar",
+      "b": "Tadbirkorlarning belgilangan yo’nalishdagi faoliyati va aniq belgilangan ishlab chiqarish turlari",
+      "c": "Kommunal xizmatlarga pastroq tariflar, yer uchastkalari va ishlab chiqarish quvvatlaridan",
+      "d": "Korxonalarni ro’yxatdan o’tkazishni osonlashtirish, viza tartibini soddalashtirish bilan bog’liq imtiyozlar"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Moliyaviy imtiyozlar deganda qanday imtiyozlar nazarda tutiladi?",
+    "variantlar": {
+      "a": "Kommunal xizmatlarga pastroq tariflar, yer uchastkalari va ishlab chiqarish quvvatlaridan ",
+      "b": "Tashqi savdo operatsiyalarining soddalashtirilgan tartibini qo’llash bilan bog’liq imtiyozlar",
+      "c": "Tadbirkorlarning belgilangan yo’nalishdagi faoliyati va aniq belgilangan ishlab chiqarish turlari",
+      "d": "Korxonalarni ro’yxatdan o’tkazishni osonlashtirish, viza tartibini soddalashtirish bilan bog’liq imtiyozlar"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Sof joriy qiymat noldan kichik bo’lganda loyiha samaradorligi bo’yicha qanday xulosa qilinadi?",
+    "variantlar": {
+      "a": "Samarasiz loyiha",
+      "b": "Samarador loyiha",
+      "c": "Loyiha daromadlari va xarajatlari o’zaro teng",
+      "d": "Loyiha diskont stavkasi qayta moliyalashtirish stavkasidan kichik"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Maxsus iqtisodiy zonalar hududida taqiqlanmagan faoliyat qaysi javobda to’g’ri ko’rsatilgan?",
+    "variantlar": {
+      "a": "import o‘rnini bosuvchi tayyor sanoat mahsulotini ishlab chiqarishni amalga oshirish",
+      "b": "yadroviy materiallar va radioaktiv moddalar ishlab chiqarishni amalga oshirish",
+      "c": "alkogol va tamaki mahsulotlari ishlab chiqarishni amalga oshirish",
+      "d": "sement, beton, g‘isht, temir-beton plitalar ishlab chiqarishni amalga oshirish"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Franshiza, gudvill, tovar belgisi – bular…",
+    "variantlar": {
+      "a": "Nomoddiy aktivlar",
+      "b": "Asosiy vositalar",
+      "c": "Joriy aktivlar",
+      "d": "Majburiyatlar"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri nomoddiy aktiv obyekti hisoblanmaydi?",
+    "variantlar": {
+      "a": "Bino-inshootlar",
+      "b": "Gudvill",
+      "c": "Yer uchastkasidan foydalanish huquqi",
+      "d": "Patent egasining ixtiroga mutlaq huquqi"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Quyidagilardan qay biri xorijiy investitsiya bo’la olmaydi?",
+    "variantlar": {
+      "a": "Milliy boyliklar",
+      "b": "Moliyaviy boyliklar",
+      "c": "Intellektual boyliklar",
+      "d": "Moddiy boyliklar"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Aksiya chiqarishdan kelgan pul tushumlari korxonaning qaysi faoliyati bo’yicha pul kirimi hisoblanadi?",
+    "variantlar": {
+      "a": "Moliyaviy faoliyat",
+      "b": "Operatsion faoliyat",
+      "c": "Investitsiya faoliyati",
+      "d": "Birja faoliyati"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Lizing bo’yicha to’lovlar korxonaning qaysi faoliyati bo’yicha pul chiqimi hisoblanadi?",
+    "variantlar": {
+      "a": "Moliyaviy faoliyat",
+      "b": "Operatsion faoliyat",
+      "c": "Investitsiya faoliyati",
+      "d": "Birja faoliyati"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Loyihaviy moliyalashtirishning qanday turlari mavjud?",
+    "variantlar": {
+      "a": "Parallel moliyalash, bosqichma-bosqich moliyalashtirish",
+      "b": "O’z-o’zini moliyalash, parallel moliyalash",
+      "c": "Riskli moliyalash, kredit evaziga moliyalashtirish",
+      "d": "Lizing va venchurli moliyalashtirish"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Qoplash koeffitsientining qanday natijasida mijozning kreditga layoqatliligi yuqori hisoblanadi?",
+    "variantlar": {
+      "a": "Kqoplash ≥ 2,0",
+      "b": "Kqoplash ≥ 1,0",
+      "c": "Kqoplash ≥ 1,5",
+      "d": "Kqoplash ≥ 0,5"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Likvidlik koeffitsientining qanday natijasida mijozning kreditga layoqatliligi yuqori hisoblanadi?",
+    "variantlar": {
+      "a": "Klikvid ≥ 1,5",
+      "b": "Klikvid ≥ 0,5",
+      "c": "Klikvid ≥ 1,0",
+      "d": "Klikvid ≥ 1,3"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Muxtoriylik koeffitsientining qanday natijasida mijozning kreditga layoqatliligi yuqori hisoblanadi?",
+    "variantlar": {
+      "a": "Km ≥ 60%",
+      "b": "Km ≥ 50%",
+      "c": "Km ≥ 40%",
+      "d": "Km ≥ 30%"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Investitsiyalarni loyihaviy moliyalashtirish bu:",
+    "variantlar": {
+      "a": "risklarni loyiha ishtirokchilari o’rtasida taqsimlagan holdagi moliyalashtirish",
+      "b": "investitsiyalarni moliyalashtirishning aniq shakli",
+      "c": "uzoq muddatli kreditlash",
+      "d": "aniq olingan loyihalar bo’yicha moliyalashtirish"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Qaysi javobda loyihaviy moliyalashtirishga to’g’ri ta’rif berilgan?",
+    "variantlar": {
+      "a": "Investitsiya loyihalarini riskli sindikatlashgan moliyalashtirishdir",
+      "b": "Investitsiya loyihasini budjetdan moliyalashtirish",
+      "c": "Riskli moliyalash",
+      "d": "Investitsiya loyihalarini bank kreditlari orqali moliyalashtirish"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Investitsiya loyihalari iqtisodiy samaradorligini baholashning oddiy usullari nechta?",
+    "variantlar": {
+      "a": "Ikkita",
+      "b": "Uchta",
+      "c": "To’rtta",
+      "d": "Beshta"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Investitsiya loyihalari iqtisodiy samaradorligini baholashning diskontlashtirish kontseptsiyasiga asoslangan usullari nechta?",
+    "variantlar": {
+      "a": "To’rtta",
+      "b": "Uchta",
+      "c": "Ikkita",
+      "d": "Beshta"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Risklarni boshqarish bu:",
+    "variantlar": {
+      "a": "Risk va foyda miqdorining oqilona qo’shilmasini aniqlashga qaratilgan harakatlardir",
+      "b": "Risklarni pasaytirish yo’llarini qo’llashga qaratilgan harakatlardir",
+      "c": "Risklarni tahlil qilish va baholash usullarini o’rganishga qaratilgan harakatlardir",
+      "d": "Risk va uning paydo bo’lish ehtimolligining oqilona qo’shilmasini aniqlashga qaratilgan harakatlardir"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "O'zbekistonda kichik biznes subyekti maqomini berishda asosan qaysi mezondan foydalaniladi?",
+    "variantlar": {
+      "a": "Ishlovchilar soni",
+      "b": "Ishlab chiqarish quvvatlari",
+      "c": "Sotilgan mahsulot miqdori",
+      "d": "Asosiy fondlar qiymatining miqdori"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Ma’muriy risklar deganda nimani tushunasiz?",
+    "variantlar": {
+      "a": "Loyiha ishtirokchilarini davlat nazorat va tartibga solish boshqarmalaridan turli",
+      "b": "Loyiha faoliyatining barcha faza va bosqichlaridagi menejment darajasining pastligi v",
+      "c": "Investitsiya risklarini boshqarish bilan bog’liq risklar majmui tushuniladi",
+      "d": "Ishlab chiqarish riskining bir turi bo’lib, boshqaruvchi shaxsning tajriba"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Moliyaviy instrumentlar – bu ….?",
+    "variantlar": {
+      "a": "Pul mablag’lari, to’lov hujjatlari, qimmatli qog’ozlar",
+      "b": "Markaziy bankning qayta moliyalashtirish stavkasi",
+      "c": "Nomoddiy aktivlar",
+      "d": "Korxonaning asosiy fondlari"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Tez pulga aylanuvchanlik qanday ataladi?",
+    "variantlar": {
+      "a": "Likvidlilik",
+      "b": "Qoplanuvchanlik",
+      "c": "Balanslilik",
+      "d": "Avtonomlik"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Tijorat banklari iqtisodiyotning qaysi sektori tarkibiga kiradi?",
+    "variantlar": {
+      "a": "Iqtisodiyotning moliyaviy sektori",
+      "b": "Iqtisodiyotning real sektori",
+      "c": "Iqtisodiyotning ijtimoiy sektori",
+      "d": "Iqtisodiyotning huquqiy sektori"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Xo’jalik yuritish faoliyatida uzoq vaqt (bir yildan ko’p vaqt) mobaynida foydalanilgan moddiy ashyoviy mazmunga ega bo’lmagan mulk obyektlari qanday ataladi?",
+    "variantlar": {
+      "a": "Nomoddiy aktivlar",
+      "b": "Moddiy aktivlar",
+      "c": "Majburiyatlar",
+      "d": "Joriy aktivlar"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Yangi yaratilgan mahsulot, texnologiya va faoliyatni qo’llash, ishlab chiqarish, sotish va ",
+    "variantlar": {
+      "a": "Patent",
+      "b": "Gudvill",
+      "c": "Franshiza",
+      "d": "Nou-xay"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Xaridor tomondan faoliyat yuritayotgan kompaniya (firma, korxona, biznes)ni sotib olishda, uning yangitdan tashkil etishga nisbatan qo’lga kiritilgan afzalliklari qanday ataladi?",
+    "variantlar": {
+      "a": "Gudvill",
+      "b": "Patent",
+      "c": "Franshiza",
+      "d": "Nou-xay"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Investitsiya loyihalarining moliyaviy-iqtisodiy samaradorligini baholash uslubiyoti qaysi tashkilot tomonidan ishlab chiqilgan?",
+    "variantlar": {
+      "a": "YUNIDO",
+      "b": "S&P",
+      "c": "BERI",
+      "d": "MOODY’S"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Innovatsion faoliyat – bu…",
+    "variantlar": {
+      "a": "Yangi ishlanmalarni tashkil etish va amalga oshirilishini ta’minlash bo‘yicha faoliyat",
+      "b": "Ilmiy-nazariy bilimning innovatsiyaga aylanish jarayoni",
+      "c": "Innovatsiya faoliyatining amalga oshirilishiga imkon beruvchi, ta’sir ko’rsatuvchi turli muassasalar",
+      "d": "Foyda olish maqsadida qonun bilan ta’qiqlanmagan sohalarga sarmoya kiritish"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Innovatsiya jarayoni – bu …",
+    "variantlar": {
+      "a": "Ilmiy-nazariy bilimning innovatsiyaga aylanish jarayoni",
+      "b": "Yangi ishlanmalarni tashkil etish va amalga oshirilishini ta’minlash bo‘yicha faoliyat",
+      "c": "Innovatsiya faoliyatining amalga oshirilishiga imkon beruvchi, ta’sir ko’rsatuvchi turli muassasalar",
+      "d": "Foyda olish maqsadida qonun bilan ta’qiqlanmagan sohalarga sarmoya kiritish"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Davlatning innovatsion siyosati - bu …",
+    "variantlar": {
+      "a": "Yangiliklarni iqtisodiyotga joriy etish bilan bog’liq innovatsiya faoliyatini",
+      "b": "Ilmiy-nazariy bilimning innovatsiyaga aylanish jarayoni",
+      "c": "Innovatsiya faoliyatining amalga oshirilishiga imkon beruvchi, ta’sir ko’rsatuvchi turli muassasalar",
+      "d": "Qo‘llanilishi amaliyotda katta ijtimoiy-iqtisodiy samaraga erishishni ta’minlaydigan yangi ishlanma"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Innovatsion mahsulot yaratilish bosqichlari ketma-ketligi qaysi javobda to’g’ri keltirilgan?",
+    "variantlar": {
+      "a": "Innovatsion g’oya, innovatsion loyiha, innovatsion mahsulot namunasi, innovatsion",
+      "b": "Investitsiya oldi, investitsiya, ekspluatatsiya bosqichi",
+      "c": "Jamg’arma, kapitalizatsiya, yangi qiymat yaratilishi, foydani o’sishi",
+      "d": "Investitsiya, likvidatsiya, ekspluatatsiya"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri loyihaviy moliyalashtirishning xususiyatiga kirmaydi?",
+    "variantlar": {
+      "a": "Ishga tushish muddati qisqa bo’ladi",
+      "b": "Loyiha ishtirokchilari ko’p bo’ladi",
+      "c": "Loyihaning qiymati yuqori bo’ladi",
+      "d": "Aralash moliyalashtirish usullaridan foydalaniladi"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Biznes muhitining risklilik darajasi qaysi indeks orqali aniqlanadi?",
+    "variantlar": {
+      "a": "BERI",
+      "b": "ICOR",
+      "c": "YUNIDO",
+      "d": "S&P"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Investitsiya resurslarining samarali ishlatilishini belgilab beruvchi kapital sig’imkorlik ko'rsatkichi qanday ataladi?",
+    "variantlar": {
+      "a": "ICOR",
+      "b": "BERI",
+      "c": "YUNIDO",
+      "d": "S&P"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Qo‘llanilishi amaliyotda katta ijtimoiy-iqtisodiy samaraga erishishni ta’minlaydigan yangi ishlanma qanday ataladi?",
+    "variantlar": {
+      "a": "Innovatsiya",
+      "b": "Investitsiya",
+      "c": "Integratsiya",
+      "d": "Diversifikatsiya"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri loyihaviy moliyalashtirishga tegishli xususiyat hisoblanadi?",
+    "variantlar": {
+      "a": "Loyihaning qiymati yuqori bo’ladi",
+      "b": "Ishga tushish muddati qisqa bo’ladi",
+      "c": "Loyiha ishtirokchilari kam bo’ladi",
+      "d": "Mehnat talabi katta bo’lmaydi"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Investitsiya faoliyatining subyektlari – bu…",
+    "variantlar": {
+      "a": "O‘zbekiston Respublikasining rezidentlari, davlat boshqaruvi organlari va mahalliy davlat ",
+      "b": "pul mablag‘lari, ko‘char va ko‘chmas mol-mulk, intellektual mulk obyektlari va yer uchastkalariga bo‘lgan huquqlar",
+      "c": "ijtimoiy soha, tadbirkorlik, ilmiy va qonunchilik bilan taqiqlanmagan boshqa faoliyat turlarining obyektlari",
+      "d": "investitsiyalar bilan bog‘liq harakatlar majmui"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri investorning huquqiga kiradi?",
+    "variantlar": {
+      "a": "kreditlar va qarzlar tarzidagi pul mablag‘larini jalb etish",
+      "b": "soliqlar va to‘lovlarni to‘lash",
+      "c": "investitsiya qilish munosabati bilan o‘zi qabul qilgan shartnoma majburiyatlarini bajarish",
+      "d": "shartnoma shartlarini bajarmaganligi yoki lozim darajada bajarmaganligi sababli investitsiya faoliyati ishtirokchisiga yetkazilgan zararlarning o‘rnini qoplash"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Konservativ investorlar…",
+    "variantlar": {
+      "a": "risk darajasi past sohalarga mablag’larini inflyatsiyadan himoyalash maqsadida sarmoya kiritadilar",
+      "b": "risk darajasi o’rtacha sohalarga turli yo’nalishlarga sarmoya kiritadilar",
+      "c": "risk darajasi yuqori sohalarga mablag’larini tez o’stirish maqsadida sarmoya kiritadilar",
+      "d": "biror bir sohaga sarmoya kiritishni xohlamaydilar"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Agressiv investorlar…",
+    "variantlar": {
+      "a": "risk darajasi yuqori sohalarga mablag’larini tez o’stirish maqsadida sarmoya kiritadilar",
+      "b": "risk darajasi o’rtacha sohalarga turli yo’nalishlarga sarmoya kiritadilar",
+      "c": "risk darajasi past sohalarga mablag’larini inflyatsiyadan himoyalash maqsadida sarmoya kiritadilar",
+      "d": "biror bir sohaga sarmoya kiritishni xohlamaydilar"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri strategik investorlarga xos emas?",
+    "variantlar": {
+      "a": "Ular portfellari bo’yicha yuqori daromadlilik va likvidlilikni ta’minlaydilar",
+      "b": "Ular o’z mablag’larini uzoq istiqbolga qarab yo’naltiradilar",
+      "c": "Ular bazaviy qimmatli qog’ozlarning yirik paketlariga mablag’ kiritadilar",
+      "d": "Ular asosan ma’lum bir tarmoqdagi kompaniyalar aksiyalarining nazorat paketiga ega bo’ladilar"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Aksiyadorlik jamiyatlari va mas’uliyati cheklangan jamiyatlar tomonidan chiqariladigan, qarz majburiyatini ifodalovchi qimmatli qog’oz qanday ataladi?",
+    "variantlar": {
+      "a": "Korporativ obligatsiyalar",
+      "b": "Oddiy aksiyalar",
+      "c": "Imtiyozli aksiyalar",
+      "d": "Depozit sertifikatlari"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri makrodarajada investitsiya faoliyatiga ta’sir etuvchi omillar guruhiga kiradi?",
+    "variantlar": {
+      "a": "Mamlakat iqtisodiyotining rivojlanish holati",
+      "b": "Korxonalarning moliyaviy holati",
+      "c": "Korxonalarning ilmiy-texnik siyosati",
+      "d": "Xo’jalikning tashkiliy-huquqiy shakli"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri mikrodarajada investitsiya faoliyatiga ta’sir etuvchi omillar guruhiga kiradi?",
+    "variantlar": {
+      "a": "Xo’jalikning tashkiliy-huquqiy shakli",
+      "b": "Inflyatsiya darajasi",
+      "c": "Soliq tizimining takomillashganlik darajasi",
+      "d": "Xorij kapitalini jalb qilish uchun yaratilgan sharoitlar"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Tizimli risklar - …",
+    "variantlar": {
+      "a": "bu xatar ta’siriga ba’zi bir qimmatli qog’ozlar emas, balki butun bozor, uni katta qismi uchraydi",
+      "b": "bunda xatarga ba’zi bir qimmatli qog’ozlar yoki ularning majmuasi uchraydi",
+      "c": "loyiha kompaniyalari va loyiha faoliyatining boshqa ishtirokchilarin",
+      "d": "bu boshqaruvchi shaxsning tajriba va malakasi yetarli darajada emasligi natijasida ro’y beradi"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Tizimsiz risklar - …",
+    "variantlar": {
+      "a": "bunda xatarga ba’zi bir qimmatli qog’ozlar yoki ularning majmuasi uchraydi",
+      "b": "bu xatar ta’siriga ba’zi bir qimmatli qog’ozlar emas, balki butun bozor, uni katta qismi uchraydi",
+      "c": "bu xatar loyiha ishtirokchilarini davlat nazorat va tartibga solish boshqarmalaridan turli litsenziyalar olishi bilan bog’liq",
+      "d": "bunda ko’pgina emitentlar zarar ko’radilar"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Mamlakat riski – bu…",
+    "variantlar": {
+      "a": "loyiha amalga oshirilayotgan davlat siyosatining o’zgarishi",
+      "b": "loyihalashdagi xatolar, loyihani amalga oshirish shartlarini o’zgarishi",
+      "c": "loyiha mahsuloti sotish hajmining va shu mahsulot bahosining pasayishi",
+      "d": "loyiha faoliyati doirasida ishtirokchilarning o’z majburiyatlarini bajarmasligi"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Lizing beruvchi – bu…",
+    "variantlar": {
+      "a": "Ishlab chiqarish korxonalaridan kerakli mashina va uskunalarni sotib",
+      "b": "Ishlab chiqarish vositalarini shartnoma asosida ijaraga oluvchi shaxs",
+      "c": "Zarur asbob-uskuna va mashinalarni sotuvchi shaxs",
+      "d": "Lizing shartnomasida ko’rsatilgan mol-mulk"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Lizing oluvchi – bu…",
+    "variantlar": {
+      "a": "Ishlab chiqarish vositalarini shartnoma asosida ijaraga oluvchi shaxs",
+      "b": "Ishlab chiqarish korxonalaridan kerakli mashina va uskunalarni sotib oluvchi hamda ularni",
+      "c": "Zarur asbob-uskuna va mashinalarni sotuvchi shaxs",
+      "d": "Lizing shartnomasida ko’rsatilgan mol-mulk"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Moliyaviy lizing – bu…",
+    "variantlar": {
+      "a": "lizing oluvchiga lizing predmeti to’liq amortizatsiya muddatiga teng bo’lgan",
+      "b": "lizing oluvchiga lizing predmeti uni to’liq amortizatsiya muddati o’tib bo’lgunga",
+      "c": "lizing predmeti sotuvchisi bir vaqtning o’zida lizing oluvchi sifatida namoyon bo’lishi",
+      "d": "lizing oluvchi keyinchalik lizing predmetini uchinchi shaxsga berishini anglatuvchi majburiyatning turi"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Operativ lizing – bu…",
+    "variantlar": {
+      "a": "lizing oluvchiga lizing predmeti uni to’liq amortizatsiya muddati o’tib bo’lgunga qadar bir",
+      "b": "lizing oluvchiga lizing predmeti to’liq amortizatsiya muddatiga teng bo’lgan muddatga ma’lum",
+      "c": "lizing predmeti sotuvchisi bir vaqtning o’zida lizing oluvchi sifatida namoyon bo’lishi",
+      "d": "lizing oluvchi keyinchalik lizing predmetini uchinchi shaxsga berishini anglatuvchi majburiyatning turi"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri real sektorga xos emas?",
+    "variantlar": {
+      "a": "Qarz olish va uni qaytarish bilan shug’ullanadigan institutlar to’plami",
+      "b": "Iqtisodiyotning yirik tarkibiy qismi",
+      "c": "Iqtisodiyotning mahsulotlarni ishlab chiqaruvchi, nomoddiy boylikni yaratuvchi va xizmatg5",
+      "d": "Mahsulot va tovarlar ishlab chiqaruvchi, bino va inshootlarni qurish, aloqa, transport"
+    },
+    "togri_javob": "a"
+  },
+  {
+    "savol": "Moliyaviy sektor – bu…",
+    "variantlar": {
+      "a": "Qarz olish va uni qaytarish bilan shug’ullanadigan institutlar to’plami",
+      "b": "Iqtisodiyotning yirik tarkibiy qismi",
+      "c": "Iqtisodiyotning mahsulotlarni ishlab chiqaruvchi, nomoddiy boylikni yaratuvchi ",
+      "d": "Mahsulot va tovarlar ishlab chiqaruvchi, bino va inshootlarni qurish, aloqa, transport"
+    },
+    "togri_javob": "a"
+  }
+]
