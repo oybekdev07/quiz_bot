@@ -1,0 +1,1492 @@
+[
+    {
+        "question": "1. Moliyaviy munosabatlar bu:",
+        "options": [
+            "xalqaro moliya institutlarining tashkil etilishi",
+            "tovarlarni chegaralardan olib o‘tish",
+            "sub’ektlar o‘rtasidagi pulli munosabatlar",
+            "tovarlar kirib kelishini soliq va bojxona orqali tartibga solish"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "question": "2. Aktsionerlik jamiyatlarida moliyaviy boshqaruvning eng yuqori organi qaysi?",
+        "options": [
+            "direktorlar kengashi",
+            "ichki audit xizmati",
+            "aksionerlar umumiy yig‘ilishi",
+            "kuzatuv kengashi"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "question": "3. Investitsion qarorlar qabul qilishda qanday asosiy vazifalar belgilanadi",
+        "options": [
+            "Korxonada soliqlarni rejalashtirish va ularni o’z vaqtida to’lanishini nazorat qilish",
+            "Kapital qo’yilmalar byudjetini ishlab chiqish, investitsion portfel va uzoq muddatli aktivlarni boshqarish",
+            "Qimmatli qog’ozlar emissiyasi, moliyalashtirish manbalarini jalb qilish",
+            "Foyda va xarajatni boshqarish, kapitalning tarkibi va qiymatini aniqlash"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "question": "4. Moliyaviy qarorlar qabul qilishda qanday asosiy vazifalar belgilanadi",
+        "options": [
+            "Moliyaviy risklarni boshqarish, qimmatli qog’ozlar emissiyasi, moliyalashtirish manbalarini jalb qilish",
+            "Operatsion risklarni boshqarish Moliyaviy tashhis va nazorat",
+            "Foyda va xarajatni boshqarish, investitsion loyihalarni jalb qilish",
+            "Kapital qo’yilmar byudjetini ishlab chiqish, investitsion portfel va uzoq muddatli aktivlarni boshqarish"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "question": "5. Korxona moliyaviy resurslari qanday manbalar hisobiga shakllanti riladi",
+        "options": [
+            "faqatgina o’z mablag’lari hisobiga",
+            "faqat jalb qilingan mablag’lar hisobiga",
+            "faqat horijiy investitsiyalar hisobiga",
+            "o’z va jalb qilingan"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "question": "6. Korporativ moliya – bu",
+        "options": [
+            "davlatning korporatsiyalarga subsidiyalar ajratishi",
+            "korporatsiyalar miqyosidagi tovar moddiy zahiralar va ularni hisobdan chiqarish",
+            "korporatsiyalarning tugatilishi va qayta tashkil etilishi bilan bog’liq munosabatlar",
+            "korporatsiyalar miqyosida pul fondlarini shakllantirish va ulardan foydalanishdagi pul munosabatlari yig‘indisi"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "question": "7. Moliyaviy rivojlanish dominant sohalari bo‘yicha strategik maqsadlar tasniflanishi",
+        "options": [
+            "hamkorlik munosabatlarini samarali tashkil etish maqsadlari",
+            "moliyaviy resurslarni majburiyatlar bo‘yicha taqsimlash maqsadlari",
+            "moliyaviy resurslarni shakllantirish va taqsimlash samaradorligini, moliyaviy boshqaruv sifatini va moliyaviy xavfsizlik darajasini oshirish maqsadlari",
+            "kadrlar malakasini oshirish maqsadlari"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "question": "8. Moliyaviy rejalashtirishning asosiy ob’ektlariga nimalar kiradi",
+        "options": [
+            "Ishchi xodimlar, moliyaviy resurslar va moliyaviy ko’rsatkichlar",
+            "Ishchi xodimlar, ijtimoiy tadbirlar va moliyaviy ko’rsatkichlar",
+            "Moliyaviy resurslar, moliyaviy ko’rsatkichlar va xo’jalik-moliyaviy faoliyat",
+            "Bankdagi omononatlar, markoiqtisodiy o’sish va moliyaviy resurslar"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "question": "9. Muddatsiz annuitetning joriy qiymatini hisoblash formulasini aniqlang",
+        "options": [
+            "PV=1+CF/r",
+            "PV=CF+1/r",
+            "PV=CF/r",
+            "PV=CF+100/r"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "question": "10. Korxona xarajatlari qaysi moliyaviy hisobotda aks etadi",
+        "options": [
+            "Asosiy vositalar harakati to’g’risidagi hisobot",
+            "Majburiyatlat to’g’risidagi hisobot",
+            "Pul oqimlari harakati to’g’risidagi hisobot va bug’alteriya balansi",
+            "Moliyaviy natijalar to’g’risidagi hisobot"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "question": "11. Tadbirkorlik faoliyatining moliyaviy ta’minoti qanday muhim tamoyillarga asoslanadig’",
+        "options": [
+            "Xo’jalik yuritishning bozor shakliga asoslanadi",
+            "Rag’batlantirish va ijtimoiy xarakterdagi pul jamg’armalarni tashkil etishga asoslanadi",
+            "O’z –o’zini qoplash va o’z  - o’zini moliyalashtirish",
+            "Bozor iktisodieti va xususiylashtirishning rivojlanishiga asoslanadi"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "question": "12. Strategik moliyaviy tahlil metodlari berilgan javobni belgilang",
+        "options": [
+            "normativ, deduktsiya",
+            "ekstrapolyatsiya",
+            "zanjirli bog‘lanish, induktsiya",
+            "SNW-tahlil, SWOT-tahlil, PEST-tahlil, portfel tahlil"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "question": "13. Moliya tizimining qaysi funktsiyasi maqsadlarni shakllantirish va uni amalga oshirishning moliyaviy imkoniyatlarini amalga oshirish bilan bog‘liq?",
+        "options": [
+            "rejalashtirish",
+            "Tashkillashtirish",
+            "rag‘batlantirish",
+            "nazorat"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "question": "14. Strategik moliyaviy tahlilning SNW-tahlil metodida nima tahlil qilinadi?",
+        "options": [
+            "zaif tomonlar, ojiz tomonlar, to‘siqlar",
+            "siyosiy jihatlar, ijtimoiy jihatlar, iqtisodiy va texnik jihatlar",
+            "kuchli tomonlar, siyosiy jihatlar, ijtimoiy jihatlar",
+            "neytral tomonlar, kuchli tomonlar, zaif tomonlar"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "question": "15. Strategik moliyaviy qarorlar qabul qilishda moliyaviy siyosat tiplari",
+        "options": [
+            "kredit, investitsiya siyosatlari",
+            "birjalar bilan ishlash",
+            "soliq siyosati, eksport siyosati",
+            "konservativ, agressiv, mo‘’tadil"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "question": "16. Mahsulot narxiga bevosita ta’sir etuvchi soliqlarni ko’rsating",
+        "options": [
+            "QQS, Aksiz,",
+            "Yagona soliq to’lovi, mol-mulk solig’i",
+            "Foyda solig’i, mol-mulk solig’i",
+            "Obodonlashtirish va ijtimoiy infrastrukturani rivojlantirish solig’i, mol-mulk solig’i"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "question": "17. Joriy aktivlarning tarkibini ko’rsating",
+        "options": [
+            "Debitorlik  qarzlari, pul mablag’lari, va asosiy vositalar",
+            "Bino inshootlar, tayyor mahsulotlar",
+            "TMZ, tugallanmagan ishlab chiqarish, debitorlik qarzlari, pul mablag’lari va boshqa aktivlar",
+            "Asosiy vositalar, gudvill, tugallanmagan ishlab chiqarish,"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "question": "18. Korxona aylanma mablag’lari deganda nimani tushunasiz",
+        "options": [
+            "korxona tomonidan har bir ishlab chiqarish tsiklida joriy operatsiyalarga investitsiya qilinadigan mablag’lar",
+            "Dasturiy ta’minot, aylanma aktivlari, bino inshootlari",
+            "korxona tomonidan uzoq yillar davomida foydalaniladigan va ishlab chiqarish jarayonida ishtirok etmaydigan iqtisodiy resurslar",
+            "korxonaning innovatsion faoliyatini amalga oshirishda foydalaniladigan iqtisodiy resurslar"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "question": "19. Divident siyosati samaradorligi",
+        "options": [
+            "Aktsiyadorlarning daromadari oshishida ko’rinadi",
+            "Foydada divident ulushi kamayishi bilan",
+            "Divident miqdorining oshishi bilan belgilanadi",
+            "Foydaning divident va kapitalga taqsimlanishi optimalligida ko’rinadi"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "question": "20. Pul oqimlarini boshqarishda diversifikatsiya?",
+        "options": [
+            "Risklarni pasaytirish maqsadida pul mablag’larini bir necha ob’ektlarga yo’naltirish",
+            "Risklarni pasaytirish maqsadida pul mablag’larini bank omonatlariga yo’naltirish",
+            "Risklarni pasaytirish maqsadida pul mablag’larini faqat ishlab chiqarishga yo’naltirish",
+            "Risklarni pasaytirish maqsadida pul mablag’larini investitsion ob’ektlarga yo’naltirish"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "question": "21. Aktsioner daromadi tarkibiga nima kiradi",
+        "options": [
+            "Aktsiyalarni sotib olish vasotish o’rtasidagi farq va divident",
+            "Nomoddiy aktivlarni sotishdan daromad",
+            "Maxsulot sotishdan daromad",
+            "Asosiy vositalarni sotishdan daromad"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "question": "22. Kapitalning optimal strukturasi",
+        "options": [
+            "Kapital tarkibida jalb qilingan qismining ko’pligi",
+            "Kapital tarkibida xususiy qismining ko’pligi",
+            "Kapital tarkibida xususiy va jalb qilingan kapital nisbati maksimal daromadni ta’minlashi",
+            "Kreditdan maksimal foydalanish"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "question": "23. Diskontlashtirish-bu ...",
+        "options": [
+            "inflyatsiyani aniqlash",
+            "Korxona jami lul mablag’larining yig’indisi",
+            "mavjud pul mablag’laring kelgusidagi qiymatini aniqlash",
+            "Kelgusidagi pul mablag’larining joriy qiymatini aniqlash"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "question": "24. Bir xil foiz stavkalardan foydalangan holda pul mablag’larining bir xil oraliq davrdagi tushumi –bu:",
+        "options": [
+            "annuitet",
+            "anderrayting",
+            "alonj",
+            "byurgshaft"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "question": "25. Debitorlik qarzlari mohiyatini belgilang",
+        "options": [
+            "Yuklab ortilgan mahsulotning puli kechikishi",
+            "Korhona egalariga ularning ulishidan kelib chiqqan holda to’lanadigan to’lovlar",
+            "Mol etkazib beruvchilardan qarz",
+            "Xaridorlardan olingan bo’naklar"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "question": "26. Kreditorlik qarzlari mohiyati belgilang",
+        "options": [
+            "Korhona egalariga ularning ulishidan kelib chiqqan holda to’lanadigan to’lovlar",
+            "Ishchi va xodimlarga berilgan avans",
+            "Xaridorlardan olingan bo’naklar va mol etkazib beruvchilardan qarz",
+            "Yuklab ortilgan mahsulotning puli kechikishi"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "question": "27. PEST qisqartma so‘zini tavsifi to‘g‘ri keltirilgan javobni belgilang.",
+        "options": [
+            "Siyosiy-huquqiy, iqtisodiy, ijtimoiy-madaniy, texnologik muhit",
+            "Ijtimoiy va madaniy muhit",
+            "Innovatsion, investitsion, demokratik texnologik muhit",
+            "Global ijtimoiy, hududlararo mehnat taqsimoti"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "question": "28. Moliyaviy mustaqillik koeffitsiyentini ko’rsating.",
+        "options": [
+            "Foydaning aktivlarga nisbati",
+            "Korxona xususiy kapitalining balans jamiga nisbati",
+            "Qarz mablaglarining o’z aylanma mablaglariga nisbati",
+            "Aktivlarning passivlarga nisbati"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "question": "29. Tez likvidli aktivlarni ko’rsating",
+        "options": [
+            "Tovar moddiy zaxiralari",
+            "Kreditorlik qarzlari va sotilgan oblatsiyalar",
+            "Pul mablag’lari va qisqa muddatli moliyaviy qo’yilmalar",
+            "Debitorlik qarzlari"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "question": "30. Soliq menejmentini korxonada kim amalga oshiradi",
+        "options": [
+            "Moliyaviy menejer",
+            "Buxgalter",
+            "Marketing menejeri",
+            "Davlat soliq xizmati organlarining  inspektorlari"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "question": "31. Moliyaviy risklarga qanday risklar kirmaydi",
+        "options": [
+            "Sotish, ekologiya, siyosiy risklari",
+            "Kredit, depozit risklari;",
+            "Inflyatsion va soliq risklari",
+            "Valyuta, investitsiya risklari;"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "question": "32. Risklarni diversifikatsiyalash nimani anglatadi",
+        "options": [
+            "tadbirkor muvaffaqiyatli xo’jalik yuritishining zaruriy shartlaridan biri hisoblanadi",
+            "bir-biri bilan bog’liq bo’lgan turli xildagi faoliyat ko’rinishlari o’rtasida kapital quyilmalarni va tovar-moddiy resurslarni taqsimlashdan iborat.",
+            "Tadbirkorlarni jamiyatda yuz berishi mumkin bo’lgan muvaffaqiyatsizliklardan himoya qilish usuli",
+            "risklarni paydo bo’lish ehtimolini kamaytirish va ular oqibatlarini qisqartirishni o’zida aks ettiradi."
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "question": "33. Moliyaviy risklarni kamaytirishning limitlashtirish usuli",
+        "options": [
+            "bu sarmoyalarni va tovar-moddiy resurslarni har xil soha yo’nalishlari bo’yicha taqsimlash orqali korxona riskini kamaytirishdan iborat.",
+            "joriy xo’jalik faoliyatini amalga oshirish jarayonida  huquq va imtiyozlaridan foydalanish",
+            "moliyaviy-xo’jalik faoliyatida resurslardan foydalanish darajasini o’rganish",
+            "bu harajatlar me’yorini, sotuvchining, kreditning yuqori chegarasini belgilashdir"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "question": "34. Qimmatli qog’ozlar emissiyasi",
+        "options": [
+            "Vositachilar tomonidan qimmatli qog’ozlar kursini birjada ruxsat etilgan doirada pasaytirish hisobiga spekulyativ o’yinni amalga oshirish",
+            "Investorlar tomonidan qimmatli qogozlardan portfel tuzish va riskni kamytirish",
+            "Qimmatli qog’ozlar bilan davlat doirasida savdo qilish sohasi tushuniladi",
+            "Emitent tomonidan qimmatli qog’ozlarni muomalaga chiqarish"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "question": "35. Likvidli qimmatli qogozlar deganda",
+        "options": [
+            "sekinlik bilan qimmatli qogozlar orqali pulga aylanish qobilyatiga ega bo’lgan qimmatli qog’ozlar tushuniladi",
+            "Nominal qiymatiga e’tibor bermay to’lov uchun qabul qilinadigan qimmatli qog’ozlar tushuniladi",
+            "Tezlik bilan egasiga hech qanday yoqotishlarsiz pulga aylanih qobiliyatiga ega blgan  qimmatli qogozlar tushiniladi",
+            "Yuqori darajada daromad keltiruvchi qimmatli qog’oz tushuniladi"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "question": "36. Dividend-bu",
+        "options": [
+            "Obligasiadan oladigan  daromad",
+            "Emeitentning qarzdorligi va bu qarz uchun foiz to’lash zarurligi haqida guvoxlik beruvchi qimmatli qog’oz",
+            "Bir shaxs tomonidan ikkinchi bir shaxsga yozib berilgan qarz majburiyatini ifodalovchi qimmatli qog’ozlarning bir turi",
+            "Aksiyadan olinadigan daromad"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "question": "37. Aktsiya kursi deganda",
+        "options": [
+            "aktsiyalarni fond birjasida ro’yxatga olinishi tushuniladi",
+            "aktsiyada yozilgan pul summasi tushuniladi",
+            "aktsiyaning bozorda sotiladigan narxi tushuniladi",
+            "birjada aktsiyalar kursini belgilash va ularni qayd etish tushuniladi"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "question": "38. Oddiy aktsiya shunday aktsiyaki, unga tegadigan dividend",
+        "options": [
+            "majburan to’lanadi",
+            "ma’lum davr mobaynida to’lanmasdan yig’ilib boriladi va oxirida    to’lanadi",
+            "oldindan belgilangan qat’iy foizlarda beriladi",
+            "foydaga qarab har xil bo’ladi"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "question": "39. Korporativ obligatsiyalar deganda",
+        "options": [
+            "kompaniya va firmalar emissiya qiladigan obligatsiyalar tushuniladi",
+            "maxalliy xokimiyatlar emissiya qiladigan obligatsiyalar tushuniladi",
+            "vazirliklar tomonidan emissiya qiladigan obligatsiyalar tushuniladi",
+            "davlat tomonidan emissiya qiladigan obligatsiyalar tushuniladi"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "question": "40. Obligatsiyaning aktsiyadan farqi shundaki",
+        "options": [
+            "o’z egasiga mazkur AJ ga a’zo bo’lib kirish xuquqini beradi",
+            "jamiyat foyda ololmay qolgan xollarda uning egasi dividend ololmay  qolishi mumkin",
+            "o’z egasiga mazkur AJ umumiy yig’ilishida ovoz berish xuquqini beradi",
+            "uni sotib olgan investor emitentning kreditoriga aylanadi"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "question": "41. Foizsiz yoki zero-kuponli obligatsiyalar",
+        "options": [
+            "rendit bahoda sotiladi",
+            "nominal bahoda sotiladi",
+            "diskont bahoda sotiladi",
+            "indeksatsiyalangan bahoda sotiladi"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "question": "42. Qonunchilikda belgilangan tartibda moliyaviy resurslarni investitsiyalar tarzida emitentlarning moliyaviy instrument-lariga yo’naltirish maqsadida moliya bozoriga chiqaruvchi shaxs va organlarga nima deyiladi?",
+        "options": [
+            "depozitariylar",
+            "Transfert agent",
+            "Emitentlar",
+            "Investorlar"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "question": "43. Korporativ moliya fani qaysi fanning tarkibiy qismi bo'lib hisoblanadi",
+        "options": [
+            "Menejment",
+            "Moliya",
+            "Buxgalteriya hisobi",
+            "Audit"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "question": "44. Aksiya bo'yicha dividendning kamayishi kapital bahosiga qanday ta'sir ko'rsatadi?",
+        "options": [
+            "Kapital bahosi o'zgarmaydi",
+            "Kapital bahosi kamayadi",
+            "Kapital bahosi oshadi",
+            "Kapital bahosiga bog'liq emas"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "question": "45. NPV < 0 bo'gan holatlarda ham loyiha bo'yicha foyda olish mumkinmi?",
+        "options": [
+            "NPV qiymati foydaga bog'liq emas",
+            "Loyiha bo'yicha foyda chiqishi mumkin emas",
+            "Loyiha bo'yicha foyda chiqishi mumkin, lekin foydalilik darajasi kutilgandan kam bo'ladi",
+            "Loyiha bo'yicha faqat zarar chiqishi mumkin, lekin zarar darajasi kutilgandan kam bo'ladi"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "question": "46. Loyiha bo'yicha NPV > 0 bo'gan holatda, qanday natija kutilishi mumkin?",
+        "options": [
+            "Loyihaning foydalilik darajasi investor kutayotgan foydalilikdan past bo'ladi",
+            "Loyihaning zararlilik darajasi investor kutayotgan zararlilik darajasiga kam bo'ladi",
+            "Loyihaning foydalilik darajasi investor kutayotgan foydalilikdan yuqori bo'ladi",
+            "Loyihaning foydalilik darajasi investor kutayotgan foydalilik darajasiga teng bo'ladi"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "question": "47. Loyiha bo'yicha NPV < 0 bo'gan holatda, qanday natija kutilishi mumkin?",
+        "options": [
+            "Loyihaning foydalilik darajasi investor kutayotgan foydalilikdan past bo'ladi",
+            "Loyihaning zararlilik darajasi investor kutayotgan zararlilik darajasiga kam bo'ladi",
+            "Loyihaning foydalilik darajasi investor kutayotgan foydalilikdan yuqori bo'ladi",
+            "Loyihaning foydalilik darajasi investor kutayotgan foydalilik darajasiga teng bo'ladi"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "question": "48. Loyiha bo'yicha NPV = 0 bo'gan holatda, qanday natija kutilishi mumkin?",
+        "options": [
+            "Loyihaning foydalilik darajasi investor kutayotgan foydalilikdan yuqori bo'ladi",
+            "Loyihaning zararlilik darajasi investor kutayotgan zararlilik darajasiga kam bo'ladi",
+            "Loyihaning foydalilik darajasi investor kutayotgan foydalilikdan past bo'ladi",
+            "Loyihaning foydalilik darajasi investor kutayotgan foydalilik darajasiga teng bo'ladi"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "question": "49. Moliyaviy direktor vazifasi to'g'ri ko'rsatilgan javobni ko'rsating.",
+        "options": [
+            "Mahsulot realizatsiyasini boshqarish",
+            "Kadrlarni boshqarish",
+            "Ishlab chiqarishni boshqarish",
+            "Pul mablag'larini boshqarish"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "question": "50. Moliyaviy direktor vazifasi to'g'ri ko'rsatilgan javobni ko'rsating.",
+        "options": [
+            "Debitrolik va kreditorlik qarzlarini boshqarish",
+            "Xaridorlarka tijorat taklifini taqdim etish",
+            "Mahsulot realizatsiyasini boshqarish",
+            "Kadrlarni boshqarish"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "question": "51. Moliyaviy direktor vazifasi to'g'ri ko'rsatilgan javobni ko'rsating.",
+        "options": [
+            "Xodimlar qo'nimsizligini nazorat qilish",
+            "Mahsulot realizatsiyasini tashkil etish",
+            "Buxgalteriya hisobini yuritish",
+            "Korxona moliyaviy rentabelligini aniqllash"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "question": "52. Moliyaviy direktor vazifasi noto'g'ri ko'rsatilgan javobni ko'rsating.",
+        "options": [
+            "Mahsulot realizatsiyasini tashkil etish",
+            "Debitrolik va kreditorlik qarzlarini boshqarish",
+            "Pul mablag'larini boshqarish",
+            "Investitsion loyihalarni samaradorligini baholash"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "question": "53. Agentlik munosabatlari konsepsiyasi to'g'ri ko'rsatilgan javobni ko'rsating",
+        "options": [
+            "Menejerlar va aksiyadorlar o'rtasidagi munosabatlar",
+            "Menejerlar o'rtasidagi o'zaro munosabatlar",
+            "Ijroiya organ o'rtasidagi o'zaro munosabatlar",
+            "Aksiyadorlar o'rtasidagi munosabatalar"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "question": "54. Risk va daromadlilik konsepsiyasi mohiyati to'g'ri ko'rsatilgan javobni belgilang",
+        "options": [
+            "Daromadlilik yuqori sohada risk past buladi",
+            "Risk va daromadlilik bir biriga bog'liq emas",
+            "Daromadlilikni oshirish uchun riskni kamaytirish lozim",
+            "Riskni pasaytirish uchun daromadlilikni kamaytirish lozim"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "question": "55. Risk va daromadlilik konsepsiyasi mohiyati to'g'ri ko'rsatilgan javobni belgilang",
+        "options": [
+            "Daromadlilik past sohalarda risk  yuqori bo'ladi",
+            "Daromadlilik yuqori sohada risk past buladi",
+            "Risk va daromadlilik bir biriga bog'liq emas",
+            "Daromadlilik yuqori sohalarda risk ham yuqori bo'ladi"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "question": "56. Agentlik munosabatlari konsepsiyasida ko'riladigan masalalardan biri",
+        "options": [
+            "Ish haqi masalasi",
+            "Dividend taqsimoti masalasi",
+            "IT masalasi",
+            "Narx masalasi"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "question": "57. Bozor samaradorligi konsepsiyasiga mos keladigan javobni ko'rsating",
+        "options": [
+            "Doim muqobil loyihalar samaradorligin aniqlash",
+            "Doim dividend taqsimotiga e'tibor qaratish",
+            "Doim korxona moliyaviy samaradorligin baholash",
+            "Doim risklarni nazorat qilish"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "question": "58. Bozor samaradorligi konsepsiyasiga mos keladigan javobni ko'rsating",
+        "options": [
+            "Loyihalar orasidan eng afzalini (samaralisini) tanlash",
+            "Loyihaning qiymatini baholash",
+            "Loyihaning daromad va xarajatlarini taqqoslash",
+            "Loyihaning samaradorligini baholash"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "question": "59. Pul mablag'larining vaqtlar bo'yicha qiymatlari konsepsiyasi qaysi javobda ko'rsatilgan",
+        "options": [
+            "Bugungi pul mablag'lari qiymati boshqa davrdagi boshqa miqdordagi pul mablag'lari qiymatiga teng emas",
+            "Bugungi pul mablag'lari qiymati istalgan boshqa davrdagi shu miqdordagi pul mablag'lari qiymatiga doimo teng",
+            "Bugun xarid qilingan mahsulotni boshqa davrda ham shu qiymatga sotib olish mumkin",
+            "Bugungi pul mablag'lari qiymati boshqa davrdagi shu miqdordagi pul mablag'lari qiymatiga teng emas"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "question": "60. Fond birjalariga qimmatli qog'ozlar chiqarish orqali Xususiy kapitalni shakllantiruvchi korporativ tuzilma",
+        "options": [
+            "Masuliyati cheklangan jamiyat",
+            "Oilaviy korxona",
+            "Aksiyadorlik jamiyati",
+            "Xususiy korxona"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "question": "61. Ellikdan ortiq ta'sischiga ega bo'lish imkoniyati mavjud korporativ tuzilma",
+        "options": [
+            "Masuliyati cheklangan jamiyat",
+            "Qo'shimcha masuliyati cheklangan jamiyat",
+            "Xususiy korxona",
+            "Aksiyadorlik jamiyati"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "question": "63. Opsion kol uzun pozitsiyada shartnoma ijro etilish vaqtida bazaviy aktivning bozor qiymati strayk bahodan yuqori bo'lsa shartnoma ijro etiladimi?",
+        "options": [
+            "ijro etilishi mumkin",
+            "ijro etilishi mumkin emas",
+            "Aniq ijro etilmaydi",
+            "Ijro etililishi aniq"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "question": "64. Opsion kol uzun pozitsiyada shartnoma ijro etilish vaqtida bazaviy aktivning bozor qiymati strayk bahodan past bo'lsa shartnoma ijro etiladimi?",
+        "options": [
+            "ijro etilishi mumkin",
+            "Aniq ijro etilmaydi",
+            "ijro etilishi ham etilmasligi ham mumkin",
+            "Ijro etililishi aniq"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "question": "65. Opsion kol uzun pozitsiyada shartnoma ijro etilish vaqtida bazaviy aktivning bozor qiymati strayk bahodan farq qilmasa shartnoma ijro etiladimi?",
+        "options": [
+            "Aniq ijro etiliadi",
+            "Aniq ijro etilmaydi",
+            "ijro etilishi mumkin emas",
+            "ijro etilishi yoki etilmasligi ham mumkin"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "question": "66. Opsion put uzun pozitsiyada shartnoma ijro etilish vaqtida bazaviy aktivning bozor qiymati strayk bahodan yuqori bo'lsa shartnoma ijro etiladimi?",
+        "options": [
+            "Aniq ijro etilmaydi",
+            "ijro etilishi mumkin",
+            "ijro etilishi mumkin emas",
+            "Ijro etililishi aniq"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "question": "67. Opsion put uzun pozitsiyada shartnoma ijro etilish vaqtida bazaviy aktivning bozor qiymati strayk bahodan farq qilmasa shartnoma ijro etiladimi?",
+        "options": [
+            "ijro etilishi mumkin emas",
+            "Aniq ijro etilmaydi",
+            "ijro etilishi yoki etilmasligi ham mumkin",
+            "Aniq ijro etiliadi"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "question": "68. Opsion kol qisqa pozitsiyada shartnoma ijro etilish vaqtida bazaviy aktivning bozor qiymati strayk bahodan yuqori bo'lsa shartnoma bo'yicha qanday moliyaviy natijaga erishiladi?",
+        "options": [
+            "Zarar ko'riladi",
+            "Zarar ham foyda ham bo'lmaydi",
+            "Foyda ko'riladi",
+            "Zarar miqdori opsion mukofoti miqdoriga teng bo'ladi"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "question": "69. Opsion kol qisqa pozitsiyada shartnoma ijro etilish vaqtida bazaviy aktivning bozor qiymati strayk bahodan farq qilmasa shartnoma bo'yicha qanday moliyaviy natijaga erishiladi?",
+        "options": [
+            "Foyda miqdori opsion mukofoti miqdoriga teng bo'ladi",
+            "Zarar ham foyda ham bo'lmaydi",
+            "Foyda ko'riladi",
+            "Zarar ko'riladi"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "question": "70. Opsion put qisqa pozitsiyada shartnoma ijro etilish vaqtida bazaviy aktivning bozor qiymati strayk bahodan yuqori bo'lsa shartnoma bo'yicha qanday moliyaviy natijaga erishiladi?",
+        "options": [
+            "Zarar ham foyda ham bo'lmaydi",
+            "Zarar ko'riladi",
+            "Foyda miqdori opsion mukofoti miqdoriga teng bo'ladi",
+            "Foyda ko'riladi"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "question": "71. Opsion put qisqa pozitsiyada shartnoma ijro etilish vaqtida bazaviy aktivning bozor qiymati strayk bahodan past bo'lsa shartnoma bo'yicha qanday moliyaviy natijaga erishiladi?",
+        "options": [
+            "Zarar k'riladi",
+            "Foyda ko'riladi",
+            "Zarar miqdori opsion mukofoti miqdoriga teng bo'ladi",
+            "Zarar ham foyda ham bo'lmaydi"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "question": "72. Opsion put qisqa pozitsiyada shartnoma ijro etilish vaqtida bazaviy aktivning bozor qiymati strayk bahodan farq qilmasa shartnoma bo'yicha qanday moliyaviy natijaga erishiladi?",
+        "options": [
+            "Foyda ko'riladi",
+            "Zarar ham foyda ham bo'lmaydi",
+            "Foyda miqdori opsion mukofoti miqdoriga teng bo'ladi",
+            "Zarar ko'riladi"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "question": "73. Kapital bahosining o'zgarishi kompaniya biznes qiymatiga ta'sir ko'rsatishi?",
+        "options": [
+            "Kapital bahosi biznes qiymatga bog'liq emas",
+            "Kapital bahosining pasayishi biznes qiymatni pasaytiradi",
+            "Kapital bahosining pasayishi biznes qiymatini oshiradi",
+            "Kapital bahosining oshishi biznes qiymatini oshiradi"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "question": "74. Kapital bahosining o'zgarishi kompaniya biznes qiymatiga qanday ta'sir ko'rsatadi?",
+        "options": [
+            "Kapital bahosining oshishi biznes qiymatni pasaytiradi",
+            "Kapital bahosi biznes qiymatga bog'liq emas",
+            "Kapital bahosining pasayishi biznes qiymatni pasaytiradi",
+            "Kapital bahosining oshishi biznes qiymatini oshiradi"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "question": "75. Kapital bahosi qaysi javobda to'g'ri ko'rsatilgan?",
+        "options": [
+            "WACC",
+            "MIRR",
+            "IRR",
+            "NPV"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "question": "76. Optimal kapital strukturasi qaysi javobda to'g'ri ko'rsatilgan",
+        "options": [
+            "Kapital bahosi maksimal bo'lishini ta'minlashga xizmat qiluvchi kapital tarkibi",
+            "Kapital bahosi o'rtacha bo'lishini ta'minlashga xizmat qiluvchi kapital tarkibi",
+            "Kapital bahosi minimal bo'lishini ta'minlashga xizmat qiluvchi kapital tarkibi",
+            "Kapital bahosi oshib borishiga xizmat qiluvchi kapital tarkibi"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "question": "77. Qisqa muddatli bank kreditlarini olishning afzalligi qaysi javobda to'g'ri ko'rsatilgan?",
+        "options": [
+            "Ishlab chiqarish to'xtab qolishini oldini oladi",
+            "Qarzlarni to'lab berish uchun qulay imkoniyat",
+            "Uskuna sotib olish uchun",
+            "Bino qurish uchun qulay mablag'lar shakllanadi"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "question": "78. Uzoq muddatli bank kreditlarini olishning afzalligi qaysi javobda to'g'ri ko'rsatilgan?",
+        "options": [
+            "Muddati kelgan joriy qarzlarni qoplash uchun qulay imkoniyat",
+            "Xom ashyo sotib olish uchun imkoniyat",
+            "Uskuna sotib olish uchun qulay imkoniyat",
+            "Ishlab chiqarish to'xtab qolishini oldini oladi"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "question": "79. NPV qanday  ko'rsatkich?",
+        "options": [
+            "Mutlaq ko'rsatkich",
+            "IRR ko'rsatkichiga bog'liq ko'rsatkich",
+            "Bilmayman",
+            "Nisbiy ko'rsatkich"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "question": "80. Investitsion loyiha egalari loyihaning jozibadorligini ko'rsatish maqsadida loyihaning NPV miqdorini e'lon qilishi mumkinmi?",
+        "options": [
+            "NPV miqdorini aniqlash bilan e'lon qilishi mumkin",
+            "NPV miqdorini loyiha egalari aniqlay olmaydilar",
+            "NPV nisbiy ko'rsatkich bo'lganligi uchun e'lon qila olmaydi",
+            "NPV mutlaq ko'rsatkich bo'lganligi uchun e'lon qilishda muammo yo'q"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "question": "81. O'zgaruvchan xarajatlar 5 so'm, o'zgarmas xarajatlar 500 so'm. Mahsulot sotish bahosi 10 so'm. Zararsizlik nuqtasini toping.",
+        "options": [
+            "120",
+            "100",
+            "90",
+            "110"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "question": "82. O'zgarmas xarajatlar 600 so'm. Mahsulot sotish bahosi 10 so'm. Zararsizlik nuqtasi 200 ta.  O'zgaruvchan xarajatlar miqdorinini toping.",
+        "options": [
+            "10",
+            "6",
+            "8",
+            "7"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "question": "83. O'zgaruvchan xarajatlar 5 so'm, o'zgarmas xarajatlar 700 so'm.  Zararsizlik nuqtasi 140 ta. Mahsulot sotish bahosini toping.",
+        "options": [
+            "10",
+            "12",
+            "14",
+            "7"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "question": "84. Aksiyadorlik jamiyati faoliyati to‘g‘risida tarqatilayotgan axborotlar guruhlari to‘g‘ri ko‘rsatilgan javobni belgilang?",
+        "options": [
+            "tijorat siri, maxfiy hamda umumfoydalanishdagi axborotlar",
+            "ixtiyoriy va majburiy tarqatiladigan axborotlar",
+            "maxfiy va xizmat doirasida foydalaniladigan axborotlar",
+            "majburiy, qo‘shimcha va erkin oshkor etiladigan axborotlar"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "question": "85. Korporativ avxborotlar yagona portali vebsayti:",
+        "options": [
+            "www.gkk.uz",
+            "www.csm.gov.uz",
+            "www.openinfo.uz",
+            "www.uzse.uz"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "question": "86. Toshkent Respublika fond birjasining rasmiy vebsayti:",
+        "options": [
+            "www.csm.gov.uz",
+            "www.openinfo.uz",
+            "www.uzse.uz",
+            "www.gkk.uz"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "question": "87. Aksiyadorlik jamiyati tomonidan qo‘shimcha aksiyalar joylashtirilayotganda ovoz beruvchi aksiyalar egalari bo‘lgan aksiyadorlarning imtiyozli sotib olish huquqi qaysi hujjatda belgilab qo‘yiladi?",
+        "options": [
+            "imtiyozli aksiyalar muomalasini tashkil etish bo‘yicha tartiblarda",
+            "“Aksiyadorlar umumiy yig‘ilishi to‘g‘risida”gi nizomda",
+            "ustavda",
+            "“Qimmatli qog‘ozlar bozori to‘g‘risida”gi qonunda"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "question": "88. Aksiyadorlarning umumiy yig‘ilishida ishtirok etishi va ovoz berishi yig‘ilish kun tartibidagi masalalar bo‘yicha ovoz berish natijalariga ta’sir o‘tkazmaydigan aksiyalar egalari qanday nom bilan ataladi?",
+        "options": [
+            "minoritar aksiyadorlar",
+            "imtiyozli aksiyadorlar",
+            "oddiy aksiyadorlar",
+            "majoritar aksiyadorlar"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "question": "89. Minoritar aksiyadorlar qo‘mitasi tashkil etilishi mumkinligi qaysi hujjatda belgilab qo‘yilishi lozim?",
+        "options": [
+            "ustavda",
+            "ijroiya organi buyrug‘ida",
+            "alohida hujjat talab qilinmaydi",
+            "umumiy yig‘ilish qarorida"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "question": "90. Minoritar aksiyadorlar qo‘mitasi a’zolarining soni qaysi hujjatda belgilab qo‘yiladi?",
+        "options": [
+            "ichki buyruqlarda",
+            "qo‘mita faoliyatini tartibga soluvchi nizomda",
+            "jamiyat ustavida",
+            "umumiy yig‘ilish qarorida"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "question": "91. Davlatning korporativ boshqaruvda bevosita ishtiroki nimalar asosida amalga oshiriladi?",
+        "options": [
+            "kuzatuv kengashi va ijroiya organi faoliyati muvofiqligini ta’minlaydi",
+            "davlat vakilini qo‘yish orqali qarorlar qabul qiladi, aksiyadorlar umumiy yig‘ilishini o‘tkazish vaqtini belgilaydi",
+            "ijroiya organi to‘liq davlat tomonidan shakllantiriladi, boshqaruv huquqini beruvchi imtiyozli aksiyalarni joriy etadi",
+            "AJ ovoz beruvchi aksiyalariga to‘liq, faqat nazorat paketiga yoki ustav kapitalida ma’lum bir ulushga egalik qilish, oltin aksiya amaliyotini joriy etish"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "question": "92. Davlat tomonidan kompaniyalarni moliyalashtirish va daromad olish vositasi hisoblanmaydi, oldi-sotdi qilinmaydigan aksiya qanday nomlanadi?",
+        "options": [
+            "oltin aksiya",
+            "imtiyozli aksiya",
+            "davlat boshqaruvi huquqini taqdim etuvchi aksiya",
+            "davlat aksiyasi"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "question": "93. Har qanday moliyaviy munosabatning moddiy asosi nima hisoblanadi.",
+        "options": [
+            "foiz undirish",
+            "moddiy jihatdan nufuzini oshirib borish",
+            "hukmronlik o‘tkazish",
+            "pul va manfaat"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "question": "94. Moliyaviy munosabatning yuzaga kelish asosiy shartini qanday izohlaysiz?",
+        "options": [
+            "foydani taqsimlashda pul munosabatlaridan foydalanish",
+            "pul mablag‘larining sub’ektlar o‘rtasidagi maqsadli harakati",
+            "takror ishlab chiqarishda moliyaviy ta’minot uzluksizligiga erishish",
+            "moliyaviy barqarorlikni oshirib borish"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "question": "95. Aksiyadorlik jamiyatining ta’sis hujjatini bilasizmi?",
+        "options": [
+            "jamiyat ta’sis yig‘ilishi bayonnomasi",
+            "Vazirlar mahkamasi qarori",
+            "tadbirkorlik sub’ektlarini ro‘yxatga olish inspeksiyasi tomonidan berilgan guvohnoma",
+            "ustav"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "question": "96. MChJ ishtirokchilarining soni bo‘yicha aniq chegara belgilab qo‘yilganmi?",
+        "options": [
+            "50 ta shaxsdan kam bo‘lishi mumkin emas",
+            "alohida talab belgilanmagan",
+            "3 ta shaxsdan kam, 50 ta shaxsdan ko‘p bo‘lishi mumkin emas",
+            "ellik kishidan oshmasligi lozim"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "question": "97. Mamlakatimizdagi aksiyadorlik jamiyatlarida qimmatli qog‘ozlar muomalasi qaysi qonunlar bilan tartibga solinadi?",
+        "options": [
+            "“Investitsiya faoliyati to‘g‘risida” va “Xususiylashtirish to‘g‘risida”gi qonunlar",
+            "“Aksiyadorlik jamiyatlari va aksiyadorlarning huquqlarini himoya qilish to‘g‘risida”gi va “Qimmatli qog‘ozlar bozori to‘g‘risida”gi qonunlar",
+            "“Mas’uliyati cheklangan va qo‘shimcha mas’uliyatli jamiyatlar” va “Raqobat to‘g‘risida”gi qonunlar",
+            "“Mas’uliyati cheklangan va qo‘shimcha mas’uliyatli jamiyatlar” va “Investitsiya faoliyati to‘g‘risida”gi qonunlar"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "question": "98. Aksiyadorlik jamiyatlarida ustav kapitali nima hisobiga shakllantiriladi?",
+        "options": [
+            "korporativ obligatsiyalar joylashtirish",
+            "sof foyda",
+            "amortizatsiya ajratmalari",
+            "oddiy va imtiyozli aksiyalarni joylashtirish"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "question": "99. 2014 yilgacha mamlakatimizdagi aksiyadorlik jamiyatlari aksiyalarining nominal qiymati bo‘yicha chegara to‘g‘ri ko‘rsatilgan javobni belgilang.",
+        "options": [
+            "1000 so‘mdan past bo‘lmasligi",
+            "5000 so‘mdan yuqori bo‘lmasligi",
+            "100 so‘mdan past bo‘lmasligi",
+            "100 so‘mdan past, 5000 so‘mdan yuqori bo‘lmasligi"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "question": "100. Aksiyalarni ommaviy tartibda birlamchi va ikkilamchi joylashtirish amaliyoti xalqaro tajribada qanday nomlanadi?",
+        "options": [
+            "AVECO va LIBOR",
+            "FIFO va LIFO",
+            "IPO va SPO",
+            "PIBOR va LIFO"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "question": "101. Xususiy kapital tarkibi qaysi javobda to‘g‘ri belgilangan?",
+        "options": [
+            "zayom kapital va uzoq muddatli kapital",
+            "moliyaviy lizing, oddiy aksiyalar, korporativ obligatsiyalar, kredit",
+            "asosiy va qo‘shimcha kapital",
+            "ustav kapitali, qo‘shilgan kapital, rezerv kapital, taqsimlanmagan foyda"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "question": "102. Korporativ obligatsiyalar bo‘yicha kapital bahosini aniqlashda e’tiborga olinadigan jihatlar quyidagilar:",
+        "options": [
+            "emissiya xarajatlari, royalti, gudvill",
+            "foiz stavkasi, emissiya xarajatlari, nominaldan past bahoda joylashtirilganda o‘rtadagi salbiy farq",
+            "nominaldan past bahoda joylashtirilganda o‘rtadagi salbiy farq va to‘lanadigan dividendlar",
+            "dividend, qo‘shimcha bonuslar, emissiya xarajatlari"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "question": "103. IPO qisqartma so‘zining ma’nosi nima?",
+        "options": [
+            "birlamchi ommaviy joylashtirish",
+            "ikkilamchi qimmatli qog‘ozlar bozori",
+            "birlamchi qimmatli qog‘ozlar bozori;",
+            "birlamchi yopiq obuna"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "question": "104. Aksiyadorlik jamiyatlari tomonidan aksiyalarni joylashtirish usullari qaysi javobda to‘g‘ri berilgan?",
+        "options": [
+            "yopiq va tor doiradagi obuna",
+            "ommaviy va ochiq obuna",
+            "ochiq va yopiq obuna",
+            "ikkilamchi va birlamchi obuna"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "question": "105. Aksiyalarni ommaviy ochiq joylashtirishning afzalliklari keltirilgan javobni belgilang.",
+        "options": [
+            "dividendlarning muntazam oshib borishi, banklar ishonchli hamkorga aylanishi, mahsulot raqobatbardosh bo‘lishi",
+            "mahsulotga talabning ortishi, bozorda yuqoriga ulushga ega bo‘lish, foydaning muntazam ortib borishi",
+            "kompaniya nufuzining oshishi, bozorda tanilishi va investitsion jozibadorlikning ta’minlanishi, aksiyalarning muddatsiz joylashtirilishi",
+            "soliqlarni minimallashtirish imkoniyatlari oshishi, aksiya kursining muntazam ortib borishi; xarajatlarning kamaytirish"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "question": "106. Aksiyalarni ommaviy ochiq joylashtirishning kamchiliklari keltirilgan javobni belgilang.",
+        "options": [
+            "foydani taqsimlashga davlat aralashuvi yuzaga kelishi, moliyaviy hisobotlar muntazam e’lon qilinishi axborotlar ochiqligiga olib kelishi",
+            "davlat moliyaviy nazorati o‘rnatilishi, xorijiy investitsiyalar kirib kelishining ortishi",
+            "dividendlar kamayib borishi va korporativ nizolarga sabab bo‘lishi",
+            "g‘arazli qo‘shib olishlar riski oshishi, qo‘shimcha aksiyalar emissiyasi bozorda salbiy signal sifatida qabul qilinishi va bu qisqa muddat ichida aksiyalar kursining pasayishiga olib kelishi"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "question": "107. Aksiyalarni ommaviy joylashtirish amaliyotida e’tibor qaratish lozim bo‘lgan jihatlarni belgilang.",
+        "options": [
+            "qisqa muddat talab qilinishi va rivojlangan davlatlar investorlari qatnashishi shartligi",
+            "brokerlar asosiy maydonga chiqishi va ular tomonidan yuqori haq talab qilinishi",
+            "iqtisodiy inqiroz sharoitida o‘tkazish lozimligi, aksiya kursi pasayishi mumkinligi hisobga olinishi",
+            "ko‘p xarajat talab qilishi, iqtisodiyotning joriy holati bilan bog‘liq holda amalga oshirish lozimligi"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "question": "108. IPO o‘tkazishda kompaniya moliyaviy holatining ishonchliligini tekshirish jarayonlari kimlar tomonidan amalga oshiriladi?",
+        "options": [
+            "brokerlar, investitsiya vositachilar, reklama agentliklari, fond birjalari vakillari",
+            "professional buxgalterlar, hakamlik sudlari, kredit institutlari, soliq organlari",
+            "moliyaviy analitiklar, korxona biznesini baholash bo‘yicha ekspertlar, yuqori malakali auditorlar, ixtisoslashgan yuristlar",
+            "soliq maslahatchilari, investitsiya fondlari, sug‘urta kompaniyalari, fond birjalari"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "question": "109. IPO o‘tkazishda “road show” amaliyotlari nimani nazarda tutadi?",
+        "options": [
+            "potensial investorlar oldida taqdimotlar o‘tkazishni",
+            "aksiyalar bo‘yicha narx diapazonini belgilashni",
+            "aksiyalar joylashtiriladigan davlatlardagi soliq yukini baholashni",
+            "aksiyalarga bo‘lgan real talabni o‘rganishni"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "question": "110. Muvaffaqiyatli o‘tkazilgan IPO amaliyotlarida eng yuqori ko‘rsatkich qaysi kompaniyaga tegishli va qancha mablag‘ jalb qilingan?",
+        "options": [
+            "Alibaba (Xitoy), 25 milliard AQSh dollari",
+            "Kvars (O‘zbekiston), 42 milliard so‘m",
+            "Facebook (AQSh), 16 milliard AQSh dollari",
+            "Saudi Aramco (Saudiya Arabiston), 25,6 milliard AQSH dollari"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "question": "111. “Kvars” AJ tomonidan o‘tkazilayotgan aksiyalarni ommaviy joylashtirish (IPO) amaliyotida aksiyalar narx diapazoni to‘g‘ri berilgan javobni belgilang?",
+        "options": [
+            "3100 – 9000 so‘m",
+            "5 – 7 AQSh dollari",
+            "3 – 5 AQSh dollari",
+            "3000 – 9100 so‘m"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "question": "112. IPO o‘tkazishda qimmatli qog‘ozlar bozorini tartibga solish bo‘yicha vakolatli davlat organi ishtiroki nima bilan belgilanadi?",
+        "options": [
+            "aksiyalarni davlat ro‘yxatidan o‘tkazish",
+            "aksiyalar muomalasini vaqtinchalik to‘xtatish",
+            "IPO natijalari bo‘yicha hisobot berish",
+            "anderrayterlar bilan shartnoma tuzishda vositachilik qilish"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "question": "113. Bir kompaniya boshqa bir kompaniya ustidan nazorat o‘rnatsa va o‘zini ushbu kompaniyaning yangi egasi deb e’lon qilsa, bunday moliyaviy operatsiya nima deb ataladi?",
+        "options": [
+            "qo‘shib olish",
+            "ajralib chiqish",
+            "bo‘linish",
+            "qo‘shib yuborish"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "question": "114. Ikki yoki undan ortiq kompaniyalar asosida yangi kompaniya vujudga kelishi nima deb ataladi?",
+        "options": [
+            "konglomerat qo‘shilish",
+            "xoldinglar",
+            "korporativ birlashish",
+            "korporativ bo‘linish"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "question": "115. Bitta tarmoqda faoliyat ko‘rsatuvchi kompaniyalarning o‘zaro birlashishi yoki qo‘shib olinish holatlari qanday birlashish hisoblanadi?",
+        "options": [
+            "xalqaro birlashuv",
+            "milliy birlashish",
+            "vertikal birlashuv",
+            "gorizontal birlashish"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "question": "116. Qanday kompaniyalar xolding kompaniyalar hisoblanadi?",
+        "options": [
+            "kompaniyadan alohida ajralib chiqqan kompaniyalar",
+            "oltin aksiya amaliyoti joriy etilgan kompaniyalar",
+            "chet elda vakolatxona yoki filiallari tashkil etilgan kompaniyalar",
+            "boshqa kompaniyaning ovoz beruvchi aksiyalari yirik paketiga ega kompaniya"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "question": "117. Xo‘jalik birlashmalarining asosiy shakllari keltirilgan javobni belgilang.",
+        "options": [
+            "qo‘shma korxonalar, unitar korxonalar, davlat korxonalari",
+            "o‘rtoqlik korxonalari, qo‘shimcha ma’uliyatli jamiyatlar, xususiy korxonalar",
+            "mas’uliyati cheklangan jamiyatlar, qo‘shimcha mas’uliyatli jamiyatlar, aksiyadorlik jamiyatlari",
+            "xolding, moliya-sanoat guruhlari, konsernlar, konsorsiumlar, sindikat, kartel"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "question": "118. Real sektor va moliyaviy sektor kompaniyalari bir-birining aksiyalariga o‘zaro egalik qilishi hamda birgalikdagi boshqaruv amalga oshirilishi belgilanadigan korporativ birlashma turi keltirilgan javobni belgilang.",
+        "options": [
+            "moliya-sanoat guruhi",
+            "kartel",
+            "sindikat",
+            "transmilliy kompaniya"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "question": "119. Mustaqil korporativ tuzilmalarning vaqtinchalik birlashmasi bo‘lib, sanoat, moliya-kredit, transport, savdo (markenting), loyihalash va boshqa tashkilotlarning yirik loyihalarni amalga oshirish maqsadidagi birlashuvini nazarda tutuvchi korporativ birlashma turi qaysi javobda berilgan?",
+        "options": [
+            "moliya-sanoat guruhi",
+            "konsorsium",
+            "sindikat",
+            "kartel"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "question": "120. Ishlab chiqarish (xizmat ko‘rsatish) hajmi, tovarlar (xizmatlar) narxi, savdo shartlari, bozorlarni cheklash masalalari bo‘yicha kelishib olish maqsadida faoliyat yo‘nalishi bo‘yicha bir-biriga yaqin bo‘lgan mustaqil xo‘jalik sub’ektlarining birlashmasi qanday nomlanadi?",
+        "options": [
+            "sindikat",
+            "kartel",
+            "konsorsium",
+            "moliya-sanoat guruhi"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "question": "121. Aksiyador va aksiyadorlik kompaniyasi o‘rtasidagi nizolarga sabab bo‘luvchi eng asosiy holat qaysi javobda berilgan?",
+        "options": [
+            "aksiya kursining o‘zgarishi bilan bog‘liq holatlar",
+            "foydani taqsimlash bilan bog‘liq munosabatlar",
+            "aksiyani qaytarib olib qo‘yish bilan bog‘liq holatlar",
+            "qo‘shib olish bilan bog‘liq munosabatlar"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "question": "122. Aksiyadorlik jamiyatlarida moliyaviy natija shakllanishi tartibi qaysi qonunchilik hujjatida berilgan?",
+        "options": [
+            "“Moliyaviy natijalar to‘g‘risida”gi Nizom",
+            "“Mahsulot (ishlar, xizmatlar)ni ishlab chiqarish va sotish xarajatlarining tarkibi hamda moliyaviy natijalarni shakllantirish tartibi to‘g‘risida”gi Nizom",
+            "“Aksiyadorlik jamiyatlari va aksiyadorlarning huquqlarini himoya qilish to‘g‘risida”gi Qonun",
+            "Soliq kodeksi"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "question": "123. Oddiy aksiyalar bo‘yicha dividendlar qanday holatlarda to‘lanishi mumkin?",
+        "options": [
+            "muomalaga chiqarilgan obligatsiyalar va olingan kreditlar bo‘yicha foizlar bo‘yicha majburiyatlar qoplangandan so‘ng to‘lanadi",
+            "davlat tomonidan ruxsat berilgan holatlarda to‘lanadi",
+            "imtiyozli aksiyalar bilan bir vaqtda to‘lanadi",
+            "faqatgina barcha xarajatlar qoplangandan so‘ng, muomalaga chiqarilgan obligatsiyalar va olingan kreditlar bo‘yicha foizlar, soliqlar va imtiyozli aksiyalar bo‘yicha dividendlar to‘langandan so‘ng to‘lanadi"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "question": "124. Aksiyadorlik jamiyatlarida dividend to‘lash bo‘yicha vaqt oraliqlari to‘g‘ri ko‘rsatilgan javobni belgilang.",
+        "options": [
+            "har yarim yilda, yiliga bir marta yoki har besh yilda bir marta",
+            "har chorakda, yiliga to‘rt marta yoki har ikki yilda bir marta",
+            "aksiyadorlik jamiyati tomonidan istalgan vaqt oralig‘i olinishi mumkin",
+            "yilning har choragida, har yarim yilda yoki yiliga bir marta"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "question": "125. Dividend to‘lash to‘g‘risida qaror qabul qilish tartibini bilasizmi?",
+        "options": [
+            "kuzatuv kengashi tavsiyasiga ko‘ra aksiyadorlar umumiy yig‘ilishi tomonidan qaror qabul qilinadi",
+            "aksiyadorlar umumiy yig‘ilishi tomonidan mustaqil qaror qabul qilinadi va dividend miqdori belgilanadi",
+            "kuzatuv kengashi tomonidan dividend miqdori belgilanadi va ijro yetuvchi organ bu haqda qaror qabul qiladi",
+            "O‘zbekiston Respublikasi moliya vazirligi buyrug‘i asosida dividend to‘lanadi"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "question": "126. Imtiyozli aksiyalar bo‘yicha dividend miqdori qanday aniqlanadi?",
+        "options": [
+            "O‘zbekiston Respublikasining “Aksiyadorlik jamiyatlari va aksiyadorlarning huquqlarini himoya qilish to‘g‘risida”gi Qonunida aksiya nominal qiymatiga nisbatan 5 foiz qilib belgilangan",
+            "ustavda qat’iy pul summasida yoki imtiyozli aksiyalarning nominal qiymatiga nisbatan foizlarda belgilab qo‘yiladi",
+            "qat’iy tartibda O‘zbekiston Respublikasi moliya vazirligi tomonidan belgilanadi",
+            "foydadan kelib chiqqan holda umumiy yig‘ilish tomonidan belgilanadi"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "question": "127. Amaliyotda keng tarqalgan dividend to‘lash shakli to‘g‘ri keltirilgan javobni belgilang",
+        "options": [
+            "pul shaklidagi dividendlar",
+            "avtomatik reinvestitsiyalash",
+            "xususiy aksiyalarni sotib olish",
+            "aksiyalar orqali to‘lash"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "question": "128. Dividend siyosatida EPS ko‘rsatkichi o‘zida nimani ifodalaydi?",
+        "options": [
+            "imtiyozli aksiyalar bo‘yicha qat’iy belgilab qo‘yilgan dividend miqdorini",
+            "reinvestitsiyalash miqdorini",
+            "bitta aksiyaga to‘g‘ri keladigan foyda miqdorini",
+            "dividend to‘lash uchun mo‘ljallangan umumiy summani"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "question": "129. Oqilona dividend siyosati orqali erishish mumkin bo‘lgan natijalar qaysi javobda berilgan?",
+        "options": [
+            "xorijiy kapitalga talabning pasayishi, korporativ obligatsiyalar daromadliligining ortishi",
+            "yangi loyihalar uchun asos, xarajatlarni optimallashtirish imkoni, manfaatlar kuchayishi",
+            "aksiyadorlik jamiyati moliyaviy mustaqilligi, kreditga talabning ortishi",
+            "IPO orqali kapital jalb qilish uchun asos, qo‘shib olinishidan himoya, aholining aksiyalar orqali daromadlarini oshirish"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "question": "130. Belgilangan vaqtda olinmagan dividendlarni aksiyador qancha muddat davomida talab qilib olishi mumkin?",
+        "options": [
+            "uch yil ichida",
+            "uch oy ichida",
+            "olti oy ichida",
+            "olti yil ichida"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "question": "131. Aksiyadorlik jamiyat sof aktivlarining qiymati qanday tatrtibda aniqlanadi?",
+        "options": [
+            "buxgalteriya hisobi ma’lumotlari bo‘yicha, jamiyat aktivlari va uzoq muddatli majburiyatlar umumiy summasi o‘rtasidagi farq sifatida",
+            "buxgalteriya hisobi ma’lumotlari bo‘yicha, jamiyat aktivlari va majburiyatlarining umumiy summasi o‘rtasidagi farq sifatida",
+            "uzoq muddatli aktivlar va joriy aktivlar o‘rtasidagi farq sifatida",
+            "aksiyadorlik jamiyatlari aktivlari va passivlari o‘rtasidagi farq sifatida"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "question": "132. Bitim yirik bitim sifatida belgilanishining asosiy mezoni qaysi javobda berilgan?",
+        "options": [
+            "berilayotgan mol-mulk qiymati sof aktivlar miqdorining 25 foizidan ortiq bo‘lsa",
+            "olish yoki berish belgilangan mol-mulk qiymati sof aktivlar miqdorining 15 foizidan ortiq bo‘lsa",
+            "aksiyadorlik jamiyati faoliyatida yirik bitim tushunchasi qo‘llanilmaydi",
+            "olinayotgan mol-mulk qiymati sof aktivlar miqdorining 25 foizidan ortiq bo‘lsa"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "question": "133. Yirik bitim jamiyat aksiyadorlarining umumiy yig‘ilishi yoki kuzatuv kengashi ushbu bitim bo‘yicha qaror qabul qilganidan keyin kim tomonidan amalga oshiriladi?",
+        "options": [
+            "ijroiya organi",
+            "bosh hisobchi",
+            "kuzatuv kengashi",
+            "taftish komissiyasi"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "question": "134. Aksiyadorlik jamiyatining yigirma foiz va undan ortiq foiz aksiyalariga egalik qiluvchi yuridik yoki jismoniy shaxslar, kuzatuv kengashining a’zosi, jamiyat direktorining yoxud jamiyat boshqaruvi a’zosining vakolatlarini amalga oshirayotgan shaxs aksiyadorlik jamiyatiga nisbatan qanday shaxslar hisoblanadi?",
+        "options": [
+            "investorlar",
+            "daxldor shaxslar",
+            "kreditorlar",
+            "affillangan shaxslar"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "question": "135. Tashkiliy-huquqiy shaklni o‘zgartirish, boshqa korporativ tuzilmalar bilan o‘zaro birlashish, qo‘shib olish yoki ajralib chiqish amaliyotlari aksiyadorlik jamiyatlarida umumiy holda qanday nomlanadi?",
+        "options": [
+            "korporativ o‘zgarish",
+            "korporativ birlashish",
+            "korporativ tugatilish",
+            "qayta tashkil etish"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "question": "136. Qo‘shib olish amaliyoti qanday hujjat asosida amalga oshiriladi?",
+        "options": [
+            "qo‘shib olish to‘g‘risida shartnoma",
+            "qo‘shib olinayotgan sub’ektni tugatish shartnomasi",
+            "hamkorlik shartnomasi",
+            "ta’sis shartnomasi"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "question": "137. Jamiyat faoliyatini uning huquq va majburiyatlarini tashkil etilayotgan yuridik shaxslarga o‘tkazgan holda tugatish nima deb e’tirof etiladi?",
+        "options": [
+            "nazoratdan chiqish",
+            "jamiyatni bo‘lish",
+            "jamiyatni tugatish",
+            "ajratib chiqarish"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "question": "138. Aksiyadorlik jamiyatlari tugatilishida chiqarilgan aksiyalar qaysi hujjatga asosan bekor qilingan hisoblanadi?",
+        "options": [
+            "emission qimmatli qog‘ozlar yagona davlat reestri",
+            "tugatish balansi",
+            "tugatish komissiyasi qarori",
+            "bankrotlik xulosasi"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "question": "139. Qarz majburiyati yoki ulush munosabatini yuzaga keltiruvchi moliyaviy aktiv bu",
+        "options": [
+            "Indossament",
+            "moliyaviy instrument",
+            "moliyaviy majburiyat",
+            "konosament"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "question": "140. Instrumentlari muomalada boʻlish muddatiga koʻra moliya bozori qanday turdagi bozorlarga ajratiladi?",
+        "options": [
+            "birjaviy va nobirjaviy bozor;",
+            "pul bozori va kapital bozori;",
+            "milliy va halqaro bozorlar.",
+            "birlamchi va ikkilamchi bozor;"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "question": "141. Qanday omillar pul bozorining jozibadorligini taʼminlaydi?",
+        "options": [
+            "qisqa muddatli qimmatli qogʻozlar boʻyicha bitimlar tuzilishi;",
+            "asosan uzoq muddatli qimmatli qogʻozlar bilan bitimlarning tuzilishi;",
+            "asosan yirik kompaniyalarning qimmatli qogʻozlari bilan bitimlar tuzilishi;",
+            "pul bozori instrumentlarida diskont stavkalarining yuqori boʻlishi."
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "question": "142. Pul bozori instrumentlari to`g`ri berilgan javobni toping.",
+        "options": [
+            "bank kreditlari, qayta sotib olinuvchi shartnomalar",
+            "davlat qisqa muddatli qimmatli qog'ozlari, qayta sotib olinuvchi shartnomalar, aksiya",
+            "davlat qisqa muddatli qimmatli qog'ozlari, qayta sotib olinuvchi shartnomalar, depozit sertifikatlari, tijorat qog'ozi, bankir kafolati, yevrodollar",
+            "ipoteka krediti, bankir kafolati, depozit sertifikati"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "question": "143. Aksiya – bu",
+        "options": [
+            "o’z egasiga aksionerlar umumiy yig’ilishida qatnashish huquqini bermaydi",
+            "O’z egasiga dividend olish huquqini beruvchi qimmatli qog’ozdir;",
+            "o’z egasiga yutuq keltiruvchi qimmatli qog’ozdir;",
+            "Emeitentning qarzdorligi va bu qarz uchun foiz to’lash zarurligi haqida guvoxlik beruvchi qimmatli qog’oz"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "question": "144. Aksiyaning nominal qiymati deganda:",
+        "options": [
+            "aksiya kursi tushuniladi",
+            "dizajio tushuniladi",
+            "aksiyada yozilgan pul summasi tushuniladi",
+            "uning bozorda sotiladigan narxi tushuniladi"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "question": "145. Opsion deganda",
+        "options": [
+            "kelgusidagi tovarlarning bugungi narxi tushuniladi",
+            "egasiga belgilangan vaqt uchun yoki muddatsiz shart bilan shartnomada ko’rsatilgan   narxda aktivni sotib olish huquqini beruvchi guvohnoma tushuniladi",
+            "muayan aktivni kelishilgan baho va muddatda sotib olish yoki sotish huquqini beruvchi shartnoma tushuniladi",
+            "aktivni kelishilgan kelgusidagi muddatda, shartnoma tuzishda qabul qilingan   baho bo’yicha sotish yoki sotib olish majburiyati tushuniladi"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "question": "146. Bazis aktivni sotib olish yoki sotish huquqini taqdim etuvchi muddatli shartnoma bu-",
+        "options": [
+            "opsion",
+            "fyuchers",
+            "svop",
+            "forvard"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "question": "147. Birjada va birjadan tashqarida ham muomilada bo'luvchi hosilaviy qimmatli qog'oz bu",
+        "options": [
+            "forvard",
+            "fyuchers",
+            "opsion",
+            "svop va forvard"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "question": "148. Ikki tomonning oldindan kelishilgan shartlariga muvofiq kelajakda ma'lum bir to'lovlarni yoki bazis aktivlarni almashtirish bo'yicha bitim bu-",
+        "options": [
+            "svop",
+            "forvard",
+            "opsion",
+            "fyuchers"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "question": "149. Opsion call bu",
+        "options": [
+            "muddati o'tgan opsion",
+            "bajarilish muddati kelgan opsion",
+            "harid qilish bo'yicha opsion",
+            "sotish bo'yicha opsion"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "question": "150.      Yevroobligatsiyalarning o’ziga xos xususiyatlari to’gri berilgan javobni aniqlang.",
+        "options": [
+            "Ushbu obligatsiyalar faqat qisqa muddatli bo’ladi",
+            "Ushbu obligatsiyalarni sotish nisbatan oson, past riskli va xavfsiz investitsiya alternativiga ega",
+            "Yevroobligatsiyalar qat’iy va o’zgaruvchan foiz stavkalari bilan chiqarilmaydi",
+            "Yevroobligatsiyalar global obligatsiyalar bozorining taxminan 25%ni tashkil qiladi"
+        ],
+        "correct_option_id": 1
+    }
+]

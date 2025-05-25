@@ -1,299 +1,285 @@
-# import json
 # import asyncio
+# import json
 # from aiogram import Bot, Dispatcher, types
+# from aiogram.client.session.aiohttp import AiohttpSession
+# from aiogram.enums import PollType
 # from aiogram.filters import Command
-# from aiogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 #
-# API_TOKEN = "7903740814:AAGa9Xy6WxfNPpX2F2c5Qj8CHlzPIY1ZVrU"  # Bu yerga tokeningizni qo'ying
+# API_TOKEN = "7903740814:AAH88sXFDLUNd2GQjR5rS1R3Q3Dl5XPLuiI"
 #
-# bot = Bot(token=API_TOKEN)
+# bot = Bot(token=API_TOKEN, session=AiohttpSession())
 # dp = Dispatcher()
 #
-# with open("json.file", "r", encoding="utf-8") as f:
+# with open("short_questions_randomized.json", "r", encoding="utf-8") as f:
 #     questions = json.load(f)
 #
-# USER_STATE = {}  # Foydalanuvchining hozirgi savol indeksi
-# USER_STATS = {}  # Foydalanuvchining to'g'ri/noto'g'ri javoblari statistikasi
+# USER_TESTS = {}     # user_id -> savollar ro'yxati
+# USER_STATE = {}     # user_id -> savol indeksi
+# USER_STATS = {}     # user_id -> to'g'ri/noto'g'ri hisoblari
+# current_options = {}  # user_id -> hozirgi savol variantlari
 #
-# BLOCK_SIZE = 30  # Har blokda 30 ta savol
+# BLOCK_SIZE = 30
+# ANSWER_TIMEOUT = 30  # sekund
 #
+# # Bu yerda userga vaqt haqida xabar berish uchun yordamchi funksiya
+# async def countdown_message(chat_id: int):
+#     for remaining in range(ANSWER_TIMEOUT, 0, -5):  # har 5 sekundda yangilansin
+#         await bot.send_message(chat_id, f"Javob uchun qolgan vaqt: {remaining} soniya")
+#         await asyncio.sleep(5)
 #
 # @dp.message(Command("start"))
-# async def start_quiz(message: types.Message):
+# async def start(message: types.Message):
 #     user_id = message.from_user.id
-#     USER_STATE[user_id] = 0  # Savol indeksi
+#     USER_TESTS[user_id] = questions
+#     USER_STATE[user_id] = 0
 #     USER_STATS[user_id] = {"togri": 0, "notogri": 0, "block_togri": 0, "block_notogri": 0}
-#     await message.answer(f"Test boshlanmoqda. Har blokda {BLOCK_SIZE} ta savol bo'ladi.")
-#     await send_question(message.chat.id, user_id)
 #
+#     await message.answer(f"Test boshlanmoqda. Har blokda {BLOCK_SIZE} ta savol bo‘ladi.\n"
+#                          f"Har bir savolga javob berish uchun {ANSWER_TIMEOUT} soniya vaqtingiz bor.")
 #
-# async def send_question(chat_id: int, user_id: int):
-#     index = USER_STATE.get(user_id, 0)
+#     await send_next_question(message.chat.id, user_id)
 #
-#     if index >= len(questions):
-#         # Test yakunlandi
-#         await bot.send_message(chat_id, "Test yakunlandi! Umumiy natijalar:\n"
-#                                         f"✅ To'g'ri: {USER_STATS[user_id]['togri']}\n"
-#                                         f"❌ Noto'g'ri: {USER_STATS[user_id]['notogri']}")
+# async def send_next_question(chat_id: int, user_id: int):
+#     if USER_STATE[user_id] >= len(USER_TESTS[user_id]):
+#         await bot.send_message(chat_id, "Test yakunlandi!\n"
+#                                         f"To‘g‘ri javoblar: {USER_STATS[user_id]['togri']}\n"
+#                                         f"Noto‘g‘ri javoblar: {USER_STATS[user_id]['notogri']}")
 #         return
 #
-#     # Blok oxirigacha yetganmisiz?
-#     if index > 0 and index % BLOCK_SIZE == 0:
-#         # Blok natijalarini ko'rsatamiz
-#         block_correct = USER_STATS[user_id].get("block_togri", 0)
-#         block_wrong = USER_STATS[user_id].get("block_notogri", 0)
+#     question_data = USER_TESTS[user_id][USER_STATE[user_id]]
+#     await send_question(chat_id, user_id, question_data)
 #
-#         # Blok statistikasini reset qilamiz keyingi blok uchun
-#         USER_STATS[user_id]["block_togri"] = 0
-#         USER_STATS[user_id]["block_notogri"] = 0
-#
-#         kb = InlineKeyboardMarkup(inline_keyboard=[
-#             [InlineKeyboardButton(text="Keyingi blok ➡️", callback_data="next_block")]
-#         ])
-#         await bot.send_message(chat_id,
-#                                f"Blok tugadi. Ushbu blokda:\n✅ To'g'ri javoblar: {block_correct}\n❌ Noto'g'ri javoblar: {block_wrong}\n\n"
-#                                f"Keyingi blokni boshlash uchun tugmani bosing.",
-#                                reply_markup=kb)
-#         return
-#
-#     # Savolni yuborish
-#     q = questions[index]
-#     options_dict = q.get("variantlar", {})
-#     keys_order = ["a", "b", "c", "d"]
-#     # Faqat mavjud variantlarni olish
-#     options = [options_dict.get(k, "").strip() for k in keys_order if options_dict.get(k, "").strip() != ""]
-#
-#     # Variantlar soni 100 dan oshmasligi
-#     if len(options) > 100:
-#         options = options[:100]
-#
-#     correct_key = q.get("togri_javob")
-#     correct_answer_text = options_dict.get(correct_key, "")
-#
+#     # 30 soniyadan keyin agar user javob bermagan bo'lsa, keyingi savolga o'tamiz
 #     try:
-#         correct_index = options.index(correct_answer_text)
-#     except ValueError:
-#         correct_index = 0
+#         await asyncio.wait_for(wait_for_answer(user_id), timeout=ANSWER_TIMEOUT)
+#     except asyncio.TimeoutError:
+#         USER_STATS[user_id]["notogri"] += 1
+#         USER_STATS[user_id]["block_notogri"] += 1
+#         USER_STATE[user_id] += 1
+#         await bot.send_message(chat_id, "Vaqt tugadi! Keyingi savolga o'tamiz.")
+#         await send_next_question(chat_id, user_id)
 #
-#     question_text = f"[ Savol {index + 1} / {len(questions)} ]\n{q['savol']}"
+# # Bu yerda javob kelishini kutamiz (asyncio.Future kabi ishlatish uchun)
+# pending_answers = {}
+#
+# async def wait_for_answer(user_id):
+#     future = asyncio.get_event_loop().create_future()
+#     pending_answers[user_id] = future
+#     await future  # Bu yerda javob kelsa, future bajariladi
+#     pending_answers.pop(user_id, None)
+#
+# async def send_question(chat_id: int, user_id: int, question_data: dict):
+#     question = question_data.get("question", "").strip()
+#     options = question_data.get("options", [])
+#
+#     if not question or not options:
+#         await bot.send_message(chat_id, "Xatolik: savol yoki variantlar yo‘q.")
+#         return
+#
+#     trimmed_options = [option.strip()[:100] for option in options if option.strip()]
+#     if not trimmed_options:
+#         await bot.send_message(chat_id, "Xatolik: variantlar bo‘sh.")
+#         return
+#
+#     correct_option_id = question_data.get("correct_option_id", 0)
+#     if correct_option_id >= len(trimmed_options):
+#         correct_option_id = 0
 #
 #     await bot.send_poll(
 #         chat_id=chat_id,
-#         question=question_text,
-#         options=options,
-#         type="quiz",
-#         correct_option_id=correct_index,
+#         question=question[:300],
+#         options=trimmed_options,
 #         is_anonymous=False,
-#         explanation=f"✅ To‘g‘ri javob: {correct_answer_text}",
-#         open_period=30
+#         type=PollType.QUIZ,
+#         correct_option_id=correct_option_id
 #     )
+#
+#     current_options[user_id] = {
+#         "correct_text": trimmed_options[correct_option_id],
+#         "options": trimmed_options
+#     }
 #
 #
 # @dp.poll_answer()
 # async def handle_poll_answer(poll_answer: types.PollAnswer):
 #     user_id = poll_answer.user.id
+#     questions = USER_TESTS.get(user_id)
+#     if not questions:
+#         return
+#
 #     index = USER_STATE.get(user_id, 0)
 #     if index >= len(questions):
 #         return
 #
-#     q = questions[index]
-#     keys_order = ["a", "b", "c", "d"]
-#     correct_key = q.get("togri_javob", "a")
-#     correct_index = keys_order.index(correct_key) if correct_key in keys_order else 0
+#     user_data = current_options.get(user_id)
+#     if not user_data:
+#         return
 #
-#     selected_option = None
-#     if poll_answer.option_ids:
-#         selected_option = poll_answer.option_ids[0]
+#     correct_text = user_data["correct_text"]
+#     options = user_data["options"]
+#
+#     try:
+#         correct_index = options.index(correct_text)
+#     except ValueError:
+#         correct_index = 0
+#
+#     selected_option = poll_answer.option_ids[0] if poll_answer.option_ids else None
 #
 #     if selected_option == correct_index:
 #         USER_STATS[user_id]["togri"] += 1
-#         USER_STATS[user_id]["block_togri"] = USER_STATS[user_id].get("block_togri", 0) + 1
+#         USER_STATS[user_id]["block_togri"] += 1
+#         reply_text = "To‘g‘ri javob!"
 #     else:
 #         USER_STATS[user_id]["notogri"] += 1
-#         USER_STATS[user_id]["block_notogri"] = USER_STATS[user_id].get("block_notogri", 0) + 1
+#         USER_STATS[user_id]["block_notogri"] += 1
+#         reply_text = "Noto‘g‘ri javob!"
+#
+#     await bot.send_message(poll_answer.user.id, reply_text)
 #
 #     USER_STATE[user_id] += 1
 #
-#     # Javobdan keyin 1 soniya kutamiz va keyingi savolni yuboramiz
-#     await asyncio.sleep(1)
-#     await send_question(poll_answer.user.id, user_id)
+#     # Javob kelganda wait_for_answer uchun future ni bajarish
+#     future = pending_answers.get(user_id)
+#     if future and not future.done():
+#         future.set_result(True)
 #
-#
-# @dp.callback_query(lambda c: c.data == "next_block")
-# async def process_next_block(callback_query: types.CallbackQuery):
-#     user_id = callback_query.from_user.id
-#     await callback_query.answer()  # Callbackni tasdiqlash
-#
-#     await send_question(callback_query.message.chat.id, user_id)
+#     # Keyingi savolga o'tishni kutish o‘rniga, send_next_question funksiya start dan chaqiradi va timeout bilan boshqariladi
 #
 #
 # if __name__ == "__main__":
-#     import asyncio
+#     import logging
+#     logging.basicConfig(level=logging.INFO)
 #     asyncio.run(dp.start_polling(bot))
 
-
-# import json
-# import os
-#
-# print("Current working directory:", os.getcwd())
-#
-# def convert_test_file_to_json(input_file, output_file):
-#     with open(input_file, "r", encoding="utf-8") as f:
-#         lines = [line.strip() for line in f]
-#
-#     questions = []
-#     i = 0
-#     total_lines = len(lines)
-#
-#     while i < total_lines:
-#         if lines[i] == "":
-#             i += 1
-#             continue
-#
-#         savol = lines[i]
-#         i += 1
-#
-#         variantlar = []
-#         correct_index = None
-#
-#         while i < total_lines:
-#             line = lines[i]
-#
-#             if line == "+++++":
-#                 i += 1
-#                 break
-#             elif line.startswith("#"):
-#                 variant = line[1:].strip()
-#                 correct_index = len(variantlar)
-#                 variantlar.append(variant)
-#             elif line == "=====" or line == "":
-#                 i += 1
-#                 continue
-#             else:
-#                 variantlar.append(line)
-#             i += 1
-#
-#         if not variantlar:
-#             continue
-#
-#         keys = ["a", "b", "c", "d", "e", "f", "g", "h"]
-#         variant_dict = {}
-#         for idx, var in enumerate(variantlar):
-#             key = keys[idx] if idx < len(keys) else f"var{idx}"
-#             variant_dict[key] = var
-#
-#         correct_key = keys[correct_index] if correct_index is not None else "a"
-#
-#         questions.append({
-#             "savol": savol,
-#             "variantlar": variant_dict,
-#             "togri_javob": correct_key
-#         })
-#
-#     with open(output_file, "w", encoding="utf-8") as f:
-#         json.dump(questions, f, ensure_ascii=False, indent=2)
-#
-#     print(f"✅ Jarayon tugadi, savollar soni: {len(questions)}")
-#     print(f"JSON fayl saqlandi: {output_file}")
-#
-
-# 7903740814:AAGa9Xy6WxfNPpX2F2c5Qj8CHlzPIY1ZVrU
-# # To'liq to'g'ri yo'lni kiriting:
-# convert_test_file_to_json("/home/oybek/PycharmProjects/Test/sorovnoma.txt", "json.file")
-
-
-import json
 import asyncio
-import random
+import json
 from aiogram import Bot, Dispatcher, types
+from aiogram.client.session.aiohttp import AiohttpSession
+from aiogram.enums import PollType
 from aiogram.filters import Command
-from aiogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
-API_TOKEN = "7903740814:AAGa9Xy6WxfNPpX2F2c5Qj8CHlzPIY1ZVrU"  # o'zingizning tokeningizni yozing
+API_TOKEN = "7903740814:AAH88sXFDLUNd2GQjR5rS1R3Q3Dl5XPLuiI"
 
-bot = Bot(token=API_TOKEN)
+bot = Bot(token=API_TOKEN, session=AiohttpSession())
 dp = Dispatcher()
 
-# Savollarni yuklash
-with open("json.file", "r", encoding="utf-8") as f:
+with open("short_questions_randomized.json", "r", encoding="utf-8") as f:
     questions = json.load(f)
 
-USER_STATE = {}   # Foydalanuvchi -> qaysi savolga keldi
-USER_STATS = {}   # Foydalanuvchi -> to‘g‘ri/noto‘g‘ri
-current_options = {}  # Foydalanuvchi -> hozirgi savoldagi aralashtirilgan variantlar
+USER_TESTS = {}     # user_id -> savollar ro'yxati
+USER_STATE = {}     # user_id -> savol indeksi
+USER_STATS = {}     # user_id -> to'g'ri/noto'g'ri hisoblari
+current_options = {}  # user_id -> hozirgi savol variantlari
+pending_answers = {}  # user_id -> asyncio.Future
 
 BLOCK_SIZE = 30
+ANSWER_TIMEOUT = 30  # sekund
 
+# BLOCK_SIZE = 30 (oldingi kodingda bor)
 
-@dp.message(Command("start"))
-async def start_quiz(message: types.Message):
-    user_id = message.from_user.id
-    USER_STATE[user_id] = 0
-    USER_STATS[user_id] = {"togri": 0, "notogri": 0, "block_togri": 0, "block_notogri": 0}
-    await message.answer(f"Test boshlanmoqda. Har blokda {BLOCK_SIZE} ta savol bo'ladi.")
-    await send_question(message.chat.id, user_id)
-
-
-async def send_question(chat_id: int, user_id: int):
-    index = USER_STATE.get(user_id, 0)
-
-    if index >= len(questions):
+async def send_next_question(chat_id: int, user_id: int):
+    # Savollar tugadi
+    if USER_STATE[user_id] >= len(USER_TESTS[user_id]):
         await bot.send_message(chat_id, "Test yakunlandi!\n"
-                                        f"✅ To‘g‘ri: {USER_STATS[user_id]['togri']}\n"
-                                        f"❌ Noto‘g‘ri: {USER_STATS[user_id]['notogri']}")
+                                        f"To‘g‘ri javoblar: {USER_STATS[user_id]['togri']}\n"
+                                        f"Noto‘g‘ri javoblar: {USER_STATS[user_id]['notogri']}")
         return
 
-    # Blok tugadi
-    if index > 0 and index % BLOCK_SIZE == 0:
-        block_correct = USER_STATS[user_id]["block_togri"]
-        block_wrong = USER_STATS[user_id]["block_notogri"]
+    # Agar blok tugagan bo'lsa (masalan, 30 ta savoldan keyin)
+    if USER_STATE[user_id] > 0 and USER_STATE[user_id] % BLOCK_SIZE == 0:
+        # Blok natijalarini beramiz
+        togri = USER_STATS[user_id]["block_togri"]
+        notogri = USER_STATS[user_id]["block_notogri"]
+        await bot.send_message(chat_id,
+                               f"Blok tugadi! To‘g‘ri javoblar: {togri}, noto‘g‘ri javoblar: {notogri}\n"
+                               f"Keyingi blokni boshlash uchun /continue ni bosing.")
+
+        # Blok statistikasini qayta tiklaymiz
         USER_STATS[user_id]["block_togri"] = 0
         USER_STATS[user_id]["block_notogri"] = 0
+        return  # keyingi savolni hozircha jo'natmaymiz, foydalanuvchidan /continue komandasi kutamiz
 
-        kb = InlineKeyboardMarkup(inline_keyboard=[
-            [InlineKeyboardButton(text="Keyingi blok ➡️", callback_data="next_block")]
-        ])
-        await bot.send_message(chat_id,
-                               f"Blok tugadi.\n✅ To‘g‘ri: {block_correct}\n❌ Noto‘g‘ri: {block_wrong}\n\n"
-                               f"Keyingi blokni boshlash uchun tugmani bosing.",
-                               reply_markup=kb)
+    question_data = USER_TESTS[user_id][USER_STATE[user_id]]
+    await send_question(chat_id, user_id, question_data)
+
+    try:
+        await asyncio.wait_for(wait_for_answer(user_id), timeout=ANSWER_TIMEOUT)
+    except asyncio.TimeoutError:
+        USER_STATS[user_id]["notogri"] += 1
+        USER_STATS[user_id]["block_notogri"] += 1
+        USER_STATE[user_id] += 1
+        await bot.send_message(chat_id, "Vaqt tugadi! Keyingi savolga o'tamiz.")
+        await send_next_question(chat_id, user_id)
+
+@dp.message(Command("continue"))
+async def continue_test(message: types.Message):
+    user_id = message.from_user.id
+    if user_id not in USER_STATE or user_id not in USER_TESTS:
+        await message.answer("Siz hali testni boshlamagansiz. /start komandasini bosing.")
         return
 
-    q = questions[index]
-    options_dict = q.get("variantlar", {})
-    correct_key = q.get("togri_javob", "a")
-    correct_text = options_dict.get(correct_key, "").strip()
+    # Blok yakunlangandan keyin keyingi savolga o‘tish uchun indexni oshiramiz
+    USER_STATE[user_id] += 1
 
-    keys_order = ["a", "b", "c", "d"]
-    original_options = [(k, options_dict.get(k, "").strip()) for k in keys_order if options_dict.get(k, "").strip()]
-    random.shuffle(original_options)
-    options = [text for _, text in original_options]
+    await send_next_question(message.chat.id, user_id)
 
-    correct_index = options.index(correct_text)
 
-    # ✅ Saqlaymiz: foydalanuvchining hozirgi variantlar ro‘yxatini
-    current_options[user_id] = {
-        "correct_text": correct_text,
-        "options": options
-    }
+async def wait_for_answer(user_id):
+    future = asyncio.get_event_loop().create_future()
+    pending_answers[user_id] = future
+    await future
+    pending_answers.pop(user_id, None)
 
-    question_text = f"[Savol {index + 1} / {len(questions)}]\n{q['savol']}"
+async def send_question(chat_id: int, user_id: int, question_data: dict):
+    question = question_data.get("question", "").strip()
+    options = question_data.get("options", [])
+
+    if not question or not options:
+        await bot.send_message(chat_id, "Xatolik: savol yoki variantlar yo‘q.")
+        return
+
+    trimmed_options = [option.strip()[:100] for option in options if option.strip()]
+    if not trimmed_options:
+        await bot.send_message(chat_id, "Xatolik: variantlar bo‘sh.")
+        return
+
+    correct_option_id = question_data.get("correct_option_id", 0)
+    if correct_option_id >= len(trimmed_options):
+        correct_option_id = 0
 
     await bot.send_poll(
         chat_id=chat_id,
-        question=question_text,
-        options=options,
-        type="quiz",
-        correct_option_id=correct_index,
+        question=question[:300],
+        options=trimmed_options,
         is_anonymous=False,
-        explanation=f"✅ To‘g‘ri javob: {correct_text}",
-        open_period=30
+        type=PollType.QUIZ,
+        correct_option_id=correct_option_id
     )
 
+    current_options[user_id] = {
+        "correct_text": trimmed_options[correct_option_id],
+        "options": trimmed_options
+    }
+
+@dp.message(Command("start"))
+async def start(message: types.Message):
+    user_id = message.from_user.id
+    USER_TESTS[user_id] = questions
+    USER_STATE[user_id] = 0
+    USER_STATS[user_id] = {"togri": 0, "notogri": 0, "block_togri": 0, "block_notogri": 0}
+
+    await message.answer(f"Test boshlanmoqda. Har blokda {BLOCK_SIZE} ta savol bo‘ladi.\n"
+                         f"Har bir savolga javob berish uchun {ANSWER_TIMEOUT} soniya vaqtingiz bor.")
+
+    await send_next_question(message.chat.id, user_id)
 
 @dp.poll_answer()
 async def handle_poll_answer(poll_answer: types.PollAnswer):
     user_id = poll_answer.user.id
+    questions = USER_TESTS.get(user_id)
+    if not questions:
+        return
+
     index = USER_STATE.get(user_id, 0)
     if index >= len(questions):
         return
@@ -305,27 +291,36 @@ async def handle_poll_answer(poll_answer: types.PollAnswer):
     correct_text = user_data["correct_text"]
     options = user_data["options"]
 
-    correct_index = options.index(correct_text)
+    try:
+        correct_index = options.index(correct_text)
+    except ValueError:
+        correct_index = 0
+
     selected_option = poll_answer.option_ids[0] if poll_answer.option_ids else None
 
     if selected_option == correct_index:
         USER_STATS[user_id]["togri"] += 1
         USER_STATS[user_id]["block_togri"] += 1
+        reply_text = "To‘g‘ri javob!"
     else:
         USER_STATS[user_id]["notogri"] += 1
         USER_STATS[user_id]["block_notogri"] += 1
+        reply_text = "Noto‘g‘ri javob!"
+
+    await bot.send_message(user_id, reply_text)
 
     USER_STATE[user_id] += 1
-    await asyncio.sleep(1)
-    await send_question(poll_answer.user.id, user_id)
 
+    # Javob kelganda wait_for_answer uchun future ni bajarish
+    future = pending_answers.get(user_id)
+    if future and not future.done():
+        future.set_result(True)
 
-@dp.callback_query(lambda c: c.data == "next_block")
-async def process_next_block(callback_query: types.CallbackQuery):
-    user_id = callback_query.from_user.id
-    await callback_query.answer()
-    await send_question(callback_query.message.chat.id, user_id)
-
+    # Keyingi savolga o'tish
+    await send_next_question(user_id, user_id)
 
 if __name__ == "__main__":
+    import logging
+    logging.basicConfig(level=logging.INFO)
+    import asyncio
     asyncio.run(dp.start_polling(bot))
